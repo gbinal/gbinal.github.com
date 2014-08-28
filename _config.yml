@@ -8,9 +8,9 @@ pygments: true
 repo_name: microsite-template
 branch: gh-pages
 #GitHub organization name *or* username
-gh_org: USG-Website-Templates
+gh_org: gbinal.github.com
 prose_url: http://prose.io
-site_url: https://USG-Website-Templates.github.io/microsite-template
+site_url: http://www.graybrooks.com
 media: assets/img
 
 
@@ -23,7 +23,7 @@ subtitle: A template of a microsite
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/microsite-template'
+baseurl: 'http://www.graybrooks.com'
 
 # Author/Organization info to be displayed in the templates
 author:
