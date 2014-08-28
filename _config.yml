@@ -39,25 +39,15 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: Page with Footnotes
-  url: pages/page_with_footnotes.html
+- text: APIs in Government
+  url: 18f.github.io/API-All-the-X/
   internal: true
-- text: Sample Page
+- text: Good Stuff
   url: pages/sample_page.html
   internal: true
-- text: News
-  url: pages/news.html
+- text: GitHub
+  url: https://github.com/gbinal
   internal: true
-- text: FAQs
-  url: pages/faq.html
-  internal: true 
-- text: Sample with SubPages
-  url: pages/workflows.html
-  internal: true
-- text: References
-  url: pages/references.html
-  internal: true
-## You should remove or comment these next few lines when going live 
-- text: How to configure this site
-  url: pages/howto.html
+- text: Suggest an Edit
+  url: https://github.com/gbinal/gbinal.github.com/issues
   internal: true
