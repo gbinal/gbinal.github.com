@@ -5,8 +5,8 @@ markdown: kramdown
 pygments: true
 
 #Prose.io editing info
-repo_name: microsite-template
-branch: gh-pages
+repo_name: gbinal.github.com
+branch: master
 #GitHub organization name *or* username
 gh_org: gbinal.github.com
 prose_url: http://prose.io
