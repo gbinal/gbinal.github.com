@@ -40,7 +40,7 @@ navigation:
   url: index.html
   internal: true
 - text: APIs in Government
-  url: 18f.github.io/API-All-the-X/
+  url: http://18f.github.io/API-All-the-X/
   internal: true
 - text: Good Stuff
   url: pages/sample_page.html
