@@ -37,7 +37,7 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: index.html
+  url: /index.html
   internal: true
 - text: APIs In Government
   url: http://18f.github.io/API-All-the-X/
