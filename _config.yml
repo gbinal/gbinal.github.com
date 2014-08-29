@@ -39,8 +39,8 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: APIs in Government
-  url: "http://18f.github.io/API-All-the-X/"
+- text: APIs In Government
+  url: http://18f.github.io/API-All-the-X/
   internal: true
 - text: Good Stuff
   url: pages/sample_page.html
@@ -48,6 +48,6 @@ navigation:
 - text: GitHub
   url: https://github.com/gbinal
   internal: true
-- text: Suggest an Edit
+- text: Suggest An Edit
   url: https://github.com/gbinal/gbinal.github.com/issues
   internal: true
