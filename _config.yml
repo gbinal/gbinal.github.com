@@ -43,7 +43,7 @@ navigation:
   url: http://18f.github.io/API-All-the-X/
   internal: true
 - text: Good Stuff
-  url: /good_stuff
+  url: /pages/good_stuff
   internal: true
 - text: GitHub
   url: https://github.com/gbinal
