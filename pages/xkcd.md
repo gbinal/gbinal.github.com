@@ -1,4 +1,7 @@
-## Why XKCD is Amazing.  
+---
+layout: default
+title: Why XKCD is Amazing
+---
 
 ### Huge
 * [Time](http://xkcd.com/1190/) - *[Explained]()*
