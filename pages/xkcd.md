@@ -4,9 +4,9 @@ title: Why XKCD is Amazing
 ---
 
 ### Huge
-* [Time](http://xkcd.com/1190/) - *[Explained]()*
-* [Click and Drag](http://xkcd.com/1110/)
-* [Pixels](http://xkcd.com/1416/)
+* [Time](http://xkcd.com/1190/) - *[Explained](http://www.explainxkcd.com/wiki/index.php?title=1190:_Time)* - [Scrollable Viewer](http://geekwagon.net/projects/xkcd1190/)
+* [Click and Drag](http://xkcd.com/1110/) - *[Explained](http://www.explainxkcd.com/wiki/index.php?title=1110:_Click_and_Drag)* - [Full Image Viewer - Zoomable](http://xkcd-map.rent-a-geek.de/#10/1.1006/0.2005)
+* [Pixels](http://xkcd.com/1416/) - *[Explained](http://www.explainxkcd.com/wiki/index.php/1416:_Pixels)* - [All Images](http://www.explainxkcd.com/wiki/index.php/1416:_Pixels/Images)
 
 ### Great Visualizations
 
