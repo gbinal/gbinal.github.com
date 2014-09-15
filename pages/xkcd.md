@@ -8,6 +8,17 @@ title: Why XKCD is Amazing
 * [Click and Drag](http://xkcd.com/1110/) - *[Explained](http://www.explainxkcd.com/wiki/index.php?title=1110:_Click_and_Drag) - [Full Image Viewer - Zoomable](http://xkcd-map.rent-a-geek.de/#10/1.1006/0.2005)*
 * [Pixels](http://xkcd.com/1416/) - *[Explained](http://www.explainxkcd.com/wiki/index.php/1416:_Pixels) - [All Images](http://www.explainxkcd.com/wiki/index.php/1416:_Pixels/Images)*
 
+### 'What If' Series
+
+Just a few of my favorites:  
+* [What would happen if you tried to hit a baseball pitched at 90% the speed of light?](http://what-if.xkcd.com/1/)
+* [What would it be like to navigate a rowboat through a lake of mercury? What about bromine? Liquid gallium? Liquid tungsten? Liquid nitrogen? Liquid helium?](http://what-if.xkcd.com/50/)
+* [What if I took a swim in a typical spent nuclear fuel pool? Would I need to dive to actually experience a fatal amount of radiation? How long could I stay safely at the surface?](http://what-if.xkcd.com/29/)
+* [Is it possible to build a jetpack using downward firing machine guns?](http://what-if.xkcd.com/21/)
+* [In Armageddon, a NASA guy comments that a plan to shoot a laser at the asteroid is like “shooting a b.b. gun at a freight train.” What would it take to stop an out-of-control freight train using only b.b. guns?](http://what-if.xkcd.com/18/)
+* [What would happen if everyone on earth stood as close to each other as they could and jumped, everyone landing on the ground at the same instant?](http://what-if.xkcd.com/8/)
+
+
 ### Great Visualizations
 
 * [Combined](https://docs.google.com/file/d/0ByCdKb1LorptYURtQ3dyT19oeVU/edit)
