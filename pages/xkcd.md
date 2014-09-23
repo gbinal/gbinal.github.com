@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Why XKCD is Amazing
+title: "Why XKCD is Amazing"
 ---
 
 ### Huge
