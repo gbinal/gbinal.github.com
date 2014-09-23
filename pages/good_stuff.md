@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 title: "Good Stuff"
 ---
 
 * [Why XKCD Is Amazing](http://graybrooks.com/pages/xkcd)
 * [Incredibly important episodes of This American Life](http://graybrooks.com/pages/TAL)
 * [My Favorite Videos](http://graybrooks.com/pages/amazing_videos)
+* [Good Music...](http://graybrooks.com/pages/music)
   
