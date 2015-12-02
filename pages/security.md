@@ -9,7 +9,8 @@ It's very tempting not to worry about securing yourself online. We've all felt f
 
 There are a few realms of risk that we all have, generally in this order of severity:  
 
-Your Data 
+### Your Data That Is Online
+
 * Think through all of the websites you use and about what you have stored in them.  
   * Your email
   * Photos 
@@ -20,6 +21,12 @@ Your Data
   * 
   * 
 
+
+
+Think through each of the above and any other data that you have somewhere out there.  
+* First - For any of that, think about how bad it will be, how much you will care if someone was able to go in and delete it.  To take it away from you and you could 
+
+each of that 
 
 
 Your Money 
