@@ -32,21 +32,21 @@ There's a ton to try but here's some highlights to get you started. Remember, it
 
 #### For Android phones
 
-* Start with the [official Cardboard app]().
-* The [NYT VR](), [Vrse](), and [Jaunt VR]() apps are all must-haves.  They are full of higher-quality videos.  
+* Start with the [official Cardboard app](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo).
+* The [NYT VR](https://play.google.com/store/apps/details?id=com.im360nytvr), [Vrse](https://play.google.com/store/apps/details?id=com.shakingearthdigital.vrsecardboard), and [Jaunt VR]() apps are all must-haves.  They are full of higher-quality videos.  
 * Jaunt is making a ton of [good content](https://play.google.com/store/apps/developer?id=Jaunt+Inc) that is [worth experiencing](http://www.jauntvr.com/content/).  
-* The [YouTube and [Street View]() apps have a lot of amazing cardboard experiences.  
+* The [YouTube and [Street View](https://play.google.com/store/apps/details?id=com.google.android.street) apps have a lot of amazing cardboard experiences.  
   * For YouTube, open the app, search for '360' and you'll find an account called '#360Video'.  All of those are cardboard-ready.  Once you press play, you'll see a cardboard icon that you'll press.  
   * For Street View, the best way to interact with it by going in through the official Cardboard app first.  
-* [Titans of Space]() is beautiful.  
-* My favorite games so far are [Caaaaardboard]() (by far the most immersive game I've found), [Lamper VR]() (it's just fun), [Trooper 2], [Proton Pulse], [Snow Strike], [Battle360VR], [SpaceTerror], and [Vanguard V].    
-* [The Mission: Trailer] starts to show what entire TV shows and movies will be like with this.  
-* You can go [climbing with North Face], [look around North Korea], [drive in a Volvo], watch [Paul McCartney] or [Jack White] perform in concert or [fly around the Space Needle]. 
-* There's some really impressive scary experiences.  [Chair in a Room] is my favorite by far.  I don't like horror very much but it's worth experiencing how VR changes that experience.  Other frightening apps that are worth trying at least once:  [VR Silent House], [Sisters], and [Insidious VR].  
-* There's a bunch of generic VR experiences that let you walk around places, like [Tuscany Dive], [VR Island], [VR World], and [Village for Google Cardboard].
-* [Lost Kismet] is like a short version of Myst.  
-* If you're game, try experiencing a roller coaster, such as [Cedar Point VR].  
-* [War of Words] is brief but meaningful.  
+* [Titans of Space](https://play.google.com/store/apps/details?id=com.drashvr.titansofspacecb) is beautiful.  
+* My favorite games so far are [Caaaaardboard]() (by far the most immersive game I've found), [Lamper VR](https://play.google.com/store/apps/details?id=com.ArchiactInteractive.LamperVR) (it's just fun), [Trooper 2](https://play.google.com/store/apps/details?id=org.cmdr2.trooper2c), [Proton Pulse](https://play.google.com/store/apps/details?id=com.ZeroTransform.ProtonPulse), [Snow Strike](), [Battle360VR](), [Deep Space Rumble](https://play.google.com/store/apps/details?id=com.gamearx.spacerumble), [SpaceTerror](), and [Vanguard V](https://play.google.com/store/apps/details?id=com.ZeroTransform.VanguardV).    
+* [The Mission: Trailer]() starts to show what entire TV shows and movies will be like with this.  
+* You can go [climbing with North Face](https://play.google.com/store/apps/details?id=com.jauntvr.preview.tnf), [look around North Korea](), [testdrive a Volvo](https://play.google.com/store/apps/details?id=com.volvo.volvoreality), watch [Paul McCartney](https://play.google.com/store/apps/details?id=com.jauntvr.preview.mccartney) or [Jack White]() perform in concert or [fly around the Space Needle](https://play.google.com/store/apps/details?id=com.wemersive.spaceneedle). 
+* There's some really impressive scary experiences.  [Chair in a Room]() is my favorite by far.  I don't like horror very much but it's worth experiencing how VR changes that experience.  Other frightening apps that are worth trying at least once:  [VR Silent House](https://play.google.com/store/apps/details?id=com.supermonkeyfun.vrsilenthome), [Sisters](https://play.google.com/store/apps/details?id=com.otherworld.Sisters), and [Insidious VR](https://play.google.com/store/apps/details?id=com.focus.insidiousCardboard).  
+* There's a bunch of generic VR experiences that let you walk around places, like [Tuscany Dive](), [VR Island](https://play.google.com/store/apps/details?id=co.vrmob.island), [VR World](https://play.google.com/store/apps/details?id=vr.world.cardboard), and [Village for Google Cardboard](https://play.google.com/store/apps/details?id=org.androidworks.villagevr.villagevr).
+* [Lost Kismet]() is like a short version of Myst.  
+* If you're game, try experiencing a roller coaster, such as [Cedar Point VR](https://play.google.com/store/apps/details?id=com.CedarFair.CedarPointVR).  
+* [War of Words](https://play.google.com/store/apps/details?id=com.BDH.WarofWords) is a brief but meaningful experience.  
 
 #### For iPhones
 
