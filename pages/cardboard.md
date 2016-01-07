@@ -28,16 +28,35 @@ Like Android phones, there's dozens of choices - most are solid but plenty are c
 
 ### Okay, I've got one.  Now what apps should I try?  
 
+There's a ton to try but here's some highlights to get you started. Remember, it's that any app is the best thing since sliced bread, but rather the innovation and newness of the experience.  
+
 #### For Android phones
 
+* Start with the [official Cardboard app]().
+* The [NYT VR](), [Vrse](), and [Jaunt VR]() apps are all must-haves.  They are full of higher-quality videos.  
+* Jaunt is making a ton of [good content](https://play.google.com/store/apps/developer?id=Jaunt+Inc) that is [worth experiencing](http://www.jauntvr.com/content/).  
+* The [YouTube and [Street View]() apps have a lot of amazing cardboard experiences.  
+  * For YouTube, open the app, search for '360' and you'll find an account called '#360Video'.  All of those are cardboard-ready.  Once you press play, you'll see a cardboard icon that you'll press.  
+  * For Street View, the best way to interact with it by going in through the official Cardboard app first.  
+* [Titans of Space]() is beautiful.  
+* My favorite games so far are [Caaaaardboard]() (by far the most immersive game I've found), [Lamper VR]() (it's just fun), [Trooper 2], [Proton Pulse], [Snow Strike], [Battle360VR], [SpaceTerror], and [Vanguard V].    
+* [The Mission: Trailer] starts to show what entire TV shows and movies will be like with this.  
+* You can go [climbing with North Face], [look around North Korea], [drive in a Volvo], watch [Paul McCartney] or [Jack White] perform in concert or [fly around the Space Needle]. 
+* There's some really impressive scary experiences.  [Chair in a Room] is my favorite by far.  I don't like horror very much but it's worth experiencing how VR changes that experience.  Other frightening apps that are worth trying at least once:  [VR Silent House], [Sisters], and [Insidious VR].  
+* There's a bunch of generic VR experiences that let you walk around places, like [Tuscany Dive], [VR Island], [VR World], and [Village for Google Cardboard].
+* [Lost Kismet] is like a short version of Myst.  
+* If you're game, try experiencing a roller coaster, such as [Cedar Point VR].  
+* [War of Words] is brief but meaningful.  
 
+#### For iPhones
 
+Android had a head start so they have more apps but there's plenty to see using an iPhone and more arriving daily.  
 
-
-Android has a big head start so their app offerings are more extensive, but there's plenty to see using an iPhone, too.  
-
-
-
-
-* [This May Be The Coolest Way Ever To Quit Your Job](https://www.youtube.com/watch?v=Ew_tdY0V4Zo)
-* [Rasmus - In the Shadows - Halo Tricks](https://www.youtube.com/watch?v=fTjw3xFObP8)
+* Start with the official Cardboard app
+* The NYT VR, Vrse, and Jaunt VR apps are all must-haves.  They are full of higher-quality videos.  
+* Jaunt is making [a ton of good content that is worth experiencing](http://www.jauntvr.com/content/).  
+* The YouTube and Street View apps have a lot of amazing cardboard experiences.  
+  * For YouTube, open the app, search for '360' and you'll find an account called '#360Video'.  All of those are cardboard-ready.  Once you press play, you'll see a cardboard icon that you'll press.  
+  * For Street View, the best way to interact with it by going in through the official Cardboard app first.  
+* Proton Pulse and Vanguard V are worth trying.  There are others but I haven't had a chance to try them yet.  
+* Search the app store for 'google cardboard' and [you'll find more](https://fnd.io/#/us/search?mediaType=ios&term=google%20cardboard).  
