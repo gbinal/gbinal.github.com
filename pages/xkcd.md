@@ -23,6 +23,7 @@ Just a few of my favorites:
 ### Great Visualizations
 
 * [Combined](https://docs.google.com/file/d/0ByCdKb1LorptYURtQ3dyT19oeVU/edit)
+* [pipelines](http://xkcd.com/1649/)
 
 ### Others that I Love 
 
