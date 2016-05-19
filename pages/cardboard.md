@@ -18,7 +18,8 @@ Yes.  Cardboard now works on both Android and Apple phones.  It _might_ not work
 
 _When You're Starting Out..._
 
-Like Android phones, there's dozens of choices - most are solid but plenty are cheap knock offs.  Here's my buying advice:
+Like Android phones, there's dozens of choices - most are solid but plenty are cheap knock offs.  Here's my buying advice:  
+
 * Don't spend more than $20 for your first Cardboard.  
 * Search on Amazon for '[google cardboard v2](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=google+cardboard+v2)'.  
 * Filter the results for those that have [4 or more stars](http://www.amazon.com/s/ref=sr_nr_p_72_0?fst=as%3Aoff&rh=i%3Aaps%2Ck%3Agoogle+cardboard+v2%2Cp_72%3A2661618011&keywords=google+cardboard+v2&ie=UTF8&qid=1452147319&rnid=2661617011) and pick one that has plenty of reviews.  
@@ -29,7 +30,8 @@ Like Android phones, there's dozens of choices - most are solid but plenty are c
 
 _But Then..._
 
-I've now tried out 7 different cardboards and 3 have stuck out to me, so I've given the rest away as gifts and use these:  
+I've now tried out 7 different cardboards and 3 have stuck out to me, so I've given the rest away as gifts and use these:   
+
 * [Mattel View-master](http://www.amazon.com/View-Master-Virtual-Reality-Starter-Pack/dp/B011EG5HJ2?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s01) ($17) - This remake of the classic view-master tries to modernize the same experience with digital slides and that experience is rubbish.  Ironically, though, it dual functions as a Cardboard Viewer and [is actually one of the best cardboard viewers out there](http://www.greenbot.com/article/2995583/android/the-best-cheap-cardboard-vr-viewer-is-mattels-view-master.html).  Very comfortable, a great clicker, and just more solid than most cardboards.  There's a couple flukes (there's no headphone port so you have to play audio out loud or use bluetooth headphones), but it's still worth it.  [There's a v2 coming out](http://toyland.gizmodo.com/the-virtual-reality-view-master-2-0-will-be-the-best-go-1758981678) at the end of the year which looks even better but go ahead and get a v1 in the meantime. It's worth it.  
 * [Unofficial Cardboard v2](http://www.unofficialcardboard.com/products/2-0-plus?variant=16856200839) ($21+shipping) - This is my favorite cardboard viewer that is actually cardboard.  It's well-made, the adjustable lens are really useful for some folks, and it's worth paying extra to get the headstrap since this is the only time I've tried a headstrap that actually works well and sometimes there's a place for one.  
 * [Goggle Tech](http://www.amazon.com/Virtual-Goggle-Tech-C1-Glass-Smartphones/dp/B01884YMKI?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s01) ($25) - These work well and get the job done, though the experience isn't quite as good as the above two.  That said, they fold down into a really small container that easily fits in your pocket or a bag.  I actually keep this one in my backback to have a cardboard viewer handy and often forget that it's there.  
