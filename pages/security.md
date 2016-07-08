@@ -125,4 +125,7 @@ Disclaimers:
 This isn't meant to be comprehensive but rather to cover the fundamentals.  
 
 
+For your devices...
+
+
 
