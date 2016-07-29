@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Google Cardboard Notes"
+permalink: /cardboard/
 ---
 
 So, I basically recommend that everyone in my life buy a $12-15 Google Cardboard.  Today.  It's an utterly inexpensive, really great way to start experiencing good virtual reality.  Below are some recommendations that I'm putting together.  I'll keep adding to them, but they should be enough to get you started for now.  
