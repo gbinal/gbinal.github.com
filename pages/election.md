@@ -5,7 +5,7 @@ permalink: /2016-election/
 ---
 
 
-This presidential election is incredibly important.  It is not enough that Hillary Clinton win. We need her to win **big** to make clear the rejection of Donald Trump's hate and smear.  It's up to us to stand for what we believe in and reject the destructive shame that threatens out society.  
+This presidential election is incredibly important.  It is not enough that Hillary Clinton win. We need her to win **big** to make clear the rejection of Donald Trump's hate and smear.  It's up to us to stand for what we believe in and reject the destructive shame that threatens our society.  
 
 Let's do as much as we can today, tonight, tomorrow, and every day through election day.  Here are ways each of us can step up.  
 
