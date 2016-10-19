@@ -45,7 +45,7 @@ navigation:
 - text: Good Stuff
   url: /pages/good_stuff
   internal: true
-  text: 2016 Election
+- text: 2016 Election
   url: /2016-election/
   internal: true
 - text: GitHub
