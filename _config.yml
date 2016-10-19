@@ -40,10 +40,13 @@ navigation:
   url: /index.html
   internal: true
 - text: APIs In Government
-  url: http://18f.github.io/API-All-the-X/
+  url: http://pages.18f.gov/API-All-the-X/
   internal: true
 - text: Good Stuff
   url: /pages/good_stuff
+  internal: true
+  text: 2016 Election
+  url: /2016-election/
   internal: true
 - text: GitHub
   url: https://github.com/gbinal
