@@ -14,8 +14,9 @@ One quick note first.  Please don't let any of this scare you. I don't mean to m
 3. Get a password safe and use it. 
 3. Don't re-use passwords for _anything_ important.  
 5. Go ahead and set up 2FA everywhere you can.  
-
-Read more...
+6. Encrypt your devices.
+7. Don't plug into strange USB stations. 
+8. Install updates.
 
 ## Why should you care? (summary) 
 
@@ -29,103 +30,26 @@ There are a few realms of risk that we all have, generally in this order of seve
   6. Publicly exposed 
   7. Used to blackmail you
 
-Read more...
-
-
 ## Advice (expanded)
 
 ### Set up 2-factor authentication.  
 
-Please hear this - a username and password by themselves are of limited value.  For a lot of reasons, they may fail you, maybe tomorrow, maybe next year, but sometime. Having a 2nd layer to your security makes it much, much safer at that point.
+Please hear this - a username and password by themselves are no longer enough.  One way or another, they will fail you - maybe tomorrow, maybe in 6 months, maybe not until next year, but someday it will happen and when it does, if you don't have a 2nd layer of security, one or more of those risks above will happen to you.   The **single** best thing you can do right now, is to set up 2 factor authentication (2FA) right now.  
 
-This feels like an extra step for the highly technical or those who are protecting super-sensitive secrets.  Maybe it once was but not anymore.  The future has arrived and having and using 2FA is part of what it means to be safe in this day and age.  If you lock your windows on your home, use 2FA.  
+This feels like an extra step for the highly technical or those who are protecting super-sensitive secrets.  Maybe it once was but not anymore.  The future has arrived and having and using 2FA is part of what it means to be safe in this day and age.  Setting up 2FA is now as fundamental as locking your windows on your home.  
 
-
-
-More on 2-factor authentication...
-
-
-
-
-
-
-
-
-
-## Why should you care? (expanded) 
-
-
-1. Money that can be taken away from you
-
-This area is the one we think of most.  You have money in your bank accounts and you don't want someone to take it. You have credit cards and you don't want to buy a bunch of things with it and stick you with the bill.  
-
-But we often forget a few side doors that expose us.  
-
-
-Threat vectors:  
-
-Bank Account 
-Credit Cards 
-Paypal/Venmo/Etc. 
-Stores 
-
-
-
-Financial Damage that Can be Done to You 
-
-
-
-Places where you cold be obligated money 
-
-
-### Your Data That Is Online
-
-* Think through all of the websites you use and about what you have stored in them.  
-  * Your email
-  * Photos 
-  * Music and playlists 
-  * Documents 
-  * Anything you've stored in Dropbox, Google Drive
-  * Your purchase history.  
-  * 
-  * 
-
-
-Remember, it's not just you that you are protecting.  We are intertwined with our friends, coworkers, and loved ones.  These common sense steps are worthwhile for the value they offer you, but if you don't do them for yourself, do them for the people in your life.  Because they are vulnerable through your vulnerabilities.  If you don't protect your email account and someone posts every email you have online, it's not just you who might be embarrassed or hurt.  It's also all of those people in your inbox.  
-
-Think through each of the above and any other data that you have somewhere out there.  
-* First - For any of that, think about how bad it will be, how much you will care if someone was able to go in and delete it.  To take it away from you and you could 
-
-each of that 
-
-
-Your Money 
-
-
-
-Financial Risk 
-
-
-
-
-
-Your devices:  
-Your laptop and phones.  
-The laptops and phones of people you share control with.  
-
-
-
-More on 2-factor authentication...
-
+* [Lifehacker: "Please Turn On Two-Factor Authentication"](http://lifehacker.com/5932700/please-turn-on-two-factor-authentication)
+* [Lifehacker: "Here's Everywhere You Should Enable Two-Factor Authentication Right Now"](http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now)
+* [More useful articles](http://lifehacker.com/tag/two-factor-authentication)
 
 
 
 Disclaimers: 
 
-This isn't meant to be comprehensive but rather to cover the fundamentals.  
+This page isn't meant to be comprehensive but rather an overview of the fundamentals.  
 
 
-For your devices...
+
 
 
 
