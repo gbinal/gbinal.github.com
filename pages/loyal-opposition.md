@@ -4,8 +4,6 @@ title: "Loyal Opposition"
 permalink: /loyal-opposition/
 ---
   
-# A citizen's responsibility  
-  
 The concept of a "[loyal opposition](https://en.wikipedia.org/wiki/Loyal_opposition)" is an important part of a healthy body politic.  It illustrates that we may "may oppose the policies of the incumbent government ... while maintaining deference to the higher authority of the state and the larger framework within which democracy operates."  Note that this is not rote obstructionism (examples of which we've seen used against the previous President to good effect), but rather a patriotic model for responsible citizenship.  
 
 This page has suggestions for living this.    
