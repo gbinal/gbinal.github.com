@@ -45,8 +45,8 @@ navigation:
 - text: Good Stuff
   url: /pages/good_stuff
   internal: true
-- text: 2016 Election
-  url: /2016-election/
+- text: Loyal Opposition
+  url: /loyal-opposition/
   internal: true
 - text: GitHub
   url: https://github.com/gbinal
