@@ -6,9 +6,15 @@ permalink: /loyal-opposition/
 
 ## Accept the results of the election and move on from re-litigating it to engaging with the results. 
 
+It will be tempting to stay focused on the 2016 election and to fight over it.  It's human to want to stay on a root source of our current issues, especially when others may disagree with twhy and how it happened.  
 
+But doing this is not an effective way to engage on the issues and events that come up during the Trump administration.  It's 'fighting the last war' when we are all needed in the what's going on here and now.   
 
 ## Affirm to yourself and create a reminder: "This is not normal."  
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-rSDUsMwakI?t=22m13s" frameborder="0" allowfullscreen></iframe>
+
 
 
 
