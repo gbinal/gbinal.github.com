@@ -1,6 +1,6 @@
 ---
 layout: page
-tite: "Loyal Opposition"
+title: "Loyal Opposition"
 permalink: /loyal-opposition/
 ---
   
