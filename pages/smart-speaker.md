@@ -96,6 +96,10 @@ Many of these already exist and I just haven't documented the correct query yet,
 * ...
 
 
+## Tips 
+* Create and link free iheartradio and tunein accounts.  They unlock a significant amount of material.  
+* If you like the NPR hourly update, put it first in your flashbriefing to make it easier to ask for (just say, 'Alexa, play the news'.  
+
 ## Which Devices Are Out There? 
 
 
