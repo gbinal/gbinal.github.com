@@ -33,8 +33,8 @@ These are some examples of commands I find useful so far:
 * Alexa, will it rain tomorrow?  
 * Alexa, will it snow Thursday?   
 * Alexa, what's the weather going to be like this weekend?  
-* Alexa, how tall is the Empire State Building?  
-* Alexa, wikipedia Abraham Lincoln.  
+* Alexa, [how tall is the Empire State Building]?  
+* Alexa, wikipedia [Abraham Lincoln].  
 * Alexa, how is traffic?  
 * Alexa, how is my commute looking?  
 * Alexa, what time is it?  
@@ -44,12 +44,12 @@ These are some examples of commands I find useful so far:
 * Alexa, set a second timer for 5 minutes.  
 * Alexa, how much time is left on my timer?  
 * Alexa, set a repeating alarm for weekdays at 7 a.  m.  
-* Alexa, what time is it in Colorado?  
+* Alexa, what time is it in [Colorado]?  
 * Alexa, add milk to my shopping list.  
 * Alexa, what’s on my shopping list?  
 * Alexa, add 'go to the grocery store' to my to-do list
 * Alexa, what’s on my to do list?  
-* Alexa, what's 56 times 33?  
+* Alexa, what's [56 times 33]?  
 * Alexa, how many [units] are in [units]?  
 * Alexa, what's the definition of [word]?  
 * Alexa, how do you spell [word]?  
@@ -101,7 +101,10 @@ Many of these already exist and I just haven't documented the correct query yet,
 ## Tips 
 * Create and link free iheartradio and tunein accounts.  They unlock a significant amount of material.  
 * If you like the NPR hourly update, put it first in your flashbriefing to make it easier to ask for (just say, 'Alexa, play the news'.  
-* 
+* Some good places to follow new or most popular skills at
+* Some good ways to subscribe to hear about new skills is with the [Amazon newsletter](https://smile.amazon.com/gp/gss/detail/42015080), 
+
+[alexaskillstore.com](https://www.alexaskillstore.com) _([subscribe](http://smswithmolly.us13.list-manage1.com/subscribe?u=08c5c395bfdc2457be5e4c2b4&id=e95ca4458c))_, 
 
 ## Which Devices Are Out There? 
 
