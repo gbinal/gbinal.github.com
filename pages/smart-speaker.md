@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Getting a Smart Speaker"
+title: "Amazon Echo/Alexa Notes"
 permalink: /smart-speaker/
 ---
 
@@ -105,6 +105,9 @@ Many of these already exist and I just haven't documented the correct query yet,
 * Some good ways to subscribe to hear about new skills is with the [Amazon newsletter](https://smile.amazon.com/gp/gss/detail/42015080), 
 
 [alexaskillstore.com](https://www.alexaskillstore.com) _([subscribe](http://smswithmolly.us13.list-manage1.com/subscribe?u=08c5c395bfdc2457be5e4c2b4&id=e95ca4458c))_, 
+
+* Searching online will return any number of larger lists of commands to help you find more commands. Some are [here](https://www.cnet.com/how-to/the-complete-list-of-alexa-commands/), ...
+
 
 ## Which Devices Are Out There? 
 
