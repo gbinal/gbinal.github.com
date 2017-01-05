@@ -101,11 +101,8 @@ Many of these already exist and I just haven't documented the correct query yet,
 ## Tips 
 * Create and link free iheartradio and tunein accounts.  They unlock a significant amount of material.  
 * If you like the NPR hourly update, put it first in your flashbriefing to make it easier to ask for (just say, 'Alexa, play the news'.  
-* Some good places to follow new or most popular skills at
-* Some good ways to subscribe to hear about new skills is with the [Amazon newsletter](https://smile.amazon.com/gp/gss/detail/42015080), 
-
-[alexaskillstore.com](https://www.alexaskillstore.com) _([subscribe](http://smswithmolly.us13.list-manage1.com/subscribe?u=08c5c395bfdc2457be5e4c2b4&id=e95ca4458c))_, 
-
+* Some good places to follow new or most popular skills at the [Alexa skills section on Amazon.com](https://www.amazon.com/b/ref=as_li_ss_tl?tag=digitren08-20&ie=UTF8&node=13727921011&linkCode=sl2&linkId=eb4c1b11fb84e75eb94ff42ee65d0cd4&ascsubtag=home:1088614:9735280) and [alexaskillstore.com](https://www.alexaskillstore.com). 
+* Some good ways to subscribe to hear about new skills is with the [Amazon newsletter](https://smile.amazon.com/gp/gss/detail/42015080) and the ([Alexa Skill Store newsletter](http://smswithmolly.us13.list-manage1.com/subscribe?u=08c5c395bfdc2457be5e4c2b4&id=e95ca4458c)).
 * Searching online will return any number of larger lists of commands to help you find more commands. Some are [here](https://www.cnet.com/how-to/the-complete-list-of-alexa-commands/), ...
 
 
