@@ -10,7 +10,7 @@ branch: master
 #GitHub organization name *or* username
 gh_org: gbinal.github.com
 prose_url: http://prose.io
-site_url: http://www.graybrooks.com
+site_url: https://www.github.com
 media: assets/img
 
 
