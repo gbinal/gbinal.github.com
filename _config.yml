@@ -8,7 +8,7 @@ pygments: true
 repo_name: gbinal.github.com
 branch: master
 #GitHub organization name *or* username
-gh_org: gbinal.github.com
+gh_org: gbinal
 prose_url: http://prose.io
 site_url: https://www.github.com
 media: assets/img
