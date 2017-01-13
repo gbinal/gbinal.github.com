@@ -125,6 +125,14 @@ Many of these already exist and I just haven't documented the correct query yet,
 * Look up quotations
 * Voice Notes
 * House Notes (like the notepad on the fridge).
+* Custom notes for common items I have to look up (e.g. When is trash day?  When is recycling? Directions for using the TV)
+* Contact info that might not be in my contacts, e.g. Poison Control. 
+* Wifi login
+* What is Congress doing today?  
+* What is the Supreme Court doing today?  
+* What is the President doing today? 
+* Recent Executive Branch activity. 
+* Who are my [senators | member of congress | state legislators | city councilmember]?  What is their phone number?
 
 ## Tips 
 * Create and link free iheartradio and tunein accounts.  They unlock a significant amount of material.  
