@@ -12,7 +12,7 @@ Three recent realizations occurred to me:
 2) The modest, yet real utility to servicing a need by just asking for it rather than reaching for a device and navigating to a resource, and typing the request.  
 3) That this dynamic (speaking to the ambient 'computer' in the room) is going to be the norm in the near, not distant future.    
   
-The last part, in particular, won me over.  There's good reason to think that the future we've seen presented in Start Trek, with the omnipresent assistant, [always ready to respond to "Computer: ..."](https://www.youtube.com/watch?v=KT5JiINlbhw), will quickly become a major norm.  In 5-8 years, we'll all be accustomed to this user interface, just as smartphones have become so thoroughly a part of our lives over the past decade.  It's worth thinking through what a smart speaker can do for you, but it's also worth becoming acquainted with an up-and-coming technology ahead of the time, to better know and understand it.    
+The last part, in particular, won me over.  There's good reason to think that the future we've seen presented in Start Trek, with the omnipresent assistant, [always ready to respond to "Computer: ..."](https://www.youtube.com/watch?v=KT5JiINlbhw), will quickly become a major norm.  In 5-8 years, we'll all be accustomed to this user interface, just as smartphones have become so thoroughly a part of our lives over the past decade.  It's worth thinking through what a smart speaker can do for you, but it's also worth becoming acquainted with an up-and-coming technology ahead of the time, to better know and understand it ([more on this](https://www.theguardian.com/commentisfree/2017/jan/15/amazon-echo-is-great-but-what-does-it-hear)).  
   
 ## Commands I use with my smart speaker
 
@@ -133,6 +133,9 @@ Many of these already exist and I just haven't documented the correct query yet,
 * What is the President doing today? 
 * Recent Executive Branch activity. 
 * Who are my [senators | member of congress | state legislators | city councilmember]?  What is their phone number?
+* Recent DC alerts.
+* Recent tweets from a specific account (or twitter list). 
+* Local police scanner.  
 
 ## Tips 
 * Create and link free iheartradio and tunein accounts.  They unlock a significant amount of material.  
@@ -148,6 +151,6 @@ Many of these already exist and I just haven't documented the correct query yet,
 
 ## Why not to use a smart speaker...
 
-...
+* Note potential security concerns, for instance, [5 Awesome Illegal Uses for Alexa](http://www.shellypalmer.com/2017/01/5-awesome-illegal-uses-alexa/).  
 
   
