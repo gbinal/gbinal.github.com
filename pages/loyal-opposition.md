@@ -68,9 +68,9 @@ Find local events where citizens are coming together to discuss current events, 
 
 ### Allow yourself to still laugh and be happy...
 
-* SNL 
-* John Oliver
-* Samatha Bee
-* The Daily Show 
-* Seth Meyers
+* [SNL](http://www.nbc.com/saturday-night-live)
+* [John Oliver](https://www.youtube.com/user/LastWeekTonight)
+* [Samatha Bee](https://www.youtube.com/channel/UC18vz5hUUqxbGvym9ghtX_w)
+* [The Daily Show](http://www.hulu.com/the-daily-show-with-trevor-noah) 
+* [Seth Meyers](https://www.youtube.com/user/LateNightSeth/videos)
 
