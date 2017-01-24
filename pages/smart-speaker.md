@@ -47,6 +47,9 @@ These are some examples of commands I find useful so far:
 * Alexa, set a second timer for 5 minutes.  
 * Alexa, how much time is left on my timer?  
 * Alexa, set a repeating alarm for weekdays at 7 a.m.  
+* Alexa, turn on/off the lamp. 
+* Alexa, turn on/off the TV. 
+* Alexa, turn on/off the living room _(a set group of lights)_.
 * Alexa, what time is it in [Colorado]?  
 * Alexa, where is the [301] area code? 
 * Alexa, add milk to my shopping list.  
@@ -96,8 +99,7 @@ Many of these already exist and I just haven't documented the correct query yet,
 * Find my phone.
 * How much battery does my phone have left?
 * Text someone.
-* Turn off lights in my house.
-* Turn off the TV.
+* Read my most recent text.  
 * Turn on the coffee maker.
 * Look up questions and answers from Quora.
 * Remind me to do something at a certain time.
@@ -122,6 +124,7 @@ Many of these already exist and I just haven't documented the correct query yet,
 * House party games
 * Quora
 * Play housewide
+* Switch to another Echo dot. 
 * Look up quotations
 * Voice Notes
 * House Notes (like the notepad on the fridge).
