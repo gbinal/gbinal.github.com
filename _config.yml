@@ -9,7 +9,7 @@ repo_name: gbinal.github.com
 branch: master
 #GitHub organization name *or* username
 gh_org: gbinal
-prose_url: http://prose.io
+prose_url: https://github.com/
 site_url: https://www.github.com
 media: assets/img
 
