@@ -2,7 +2,6 @@
 permalink: http://www.graybrooks.com
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
-pygments: true
 
 #Prose.io editing info
 repo_name: gbinal.github.com
