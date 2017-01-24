@@ -51,6 +51,3 @@ navigation:
 - text: GitHub
   url: https://github.com/gbinal
   internal: true
-- text: Suggest An Edit
-  url: https://github.com/gbinal/gbinal.github.com/issues
-  internal: true
