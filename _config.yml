@@ -40,13 +40,13 @@ navigation:
   internal: true
 - text: APIs In Government
   url: http://pages.18f.gov/API-All-the-X/
-  internal: true
+  internal: false
 - text: Good Stuff
   url: /pages/good_stuff
   internal: true
 - text: Loyal Opposition
   url: /loyal-opposition/
-  internal: external
+  internal: true
 - text: GitHub
   url: https://github.com/gbinal
-  internal: true
+  internal: false
