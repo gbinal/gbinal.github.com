@@ -46,7 +46,7 @@ navigation:
   internal: true
 - text: Loyal Opposition
   url: /loyal-opposition/
-  internal: true
+  internal: external
 - text: GitHub
   url: https://github.com/gbinal
   internal: true
