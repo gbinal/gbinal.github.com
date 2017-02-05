@@ -26,3 +26,5 @@ permalink: /loyal-opposition-plan/
 5. Plan for Supporting Someone in Need 
 6. Plan for How to Disagree with Someone 
 7. Engage with Mayor, State Legislator, and Governor on a rotating basis
+8. Host a quarterly donation party 
+9. Decide on a list of people whose opinion you respect and comb through their social media for recent calls to action.  
