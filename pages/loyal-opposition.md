@@ -66,6 +66,12 @@ Find local events where citizens are coming together to discuss current events, 
 * Look up the phone numbers for your US Senators and Congress members and, whenever ssomething seems particularly wrong headed - call them and tell them so.  You'll either speak with a low level staffer or get their voicemail, but *they make a note of how many people call, on what issues, and what side they are on, so this matters.*.  
 * Write a brief letter to the editor of your local paper.  They print those and people read them.  
 
+### Make a Plan
+
+All of the above are ideas for activity, but ideas don't matter if they don't lead to action...
+
+
+
 ### Allow yourself to still laugh and be happy...
 
 * [SNL](http://www.nbc.com/saturday-night-live)
@@ -73,4 +79,7 @@ Find local events where citizens are coming together to discuss current events, 
 * [Samatha Bee](https://www.youtube.com/channel/UC18vz5hUUqxbGvym9ghtX_w)
 * [The Daily Show](http://www.hulu.com/the-daily-show-with-trevor-noah) 
 * [Seth Meyers](https://www.youtube.com/user/LateNightSeth/videos)
+
+================================
+
 
