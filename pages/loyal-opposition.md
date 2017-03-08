@@ -37,7 +37,6 @@ We should be open to being surprised by Donald Trump governing responsibly and r
 
 ### Support (and sign up for) progressive causes that need you.  
 
-* Democratic Legislative Campaign Committee 
 * Planned Parenthood
 * Sierra Club
 * Center for American Progress
