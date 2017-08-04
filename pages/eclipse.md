@@ -53,6 +53,11 @@ Really - trust me: read and listen to these.
 * The total eclipse will begin in Oregon at about 10:15AM PT/1:15PM ET.  The 70-mile wide total shadow will then travel at ~2,000 miles per hour (~32 miles per minute) across the country before exiting South Carolina at about 11:50AM PT/2:50PM ET.  Areas right in the middle of the totality will get about 2 1/2 minutes of straight up nighttime.  The national event will last about an hour and a half and there'll be plenty of live streams and tv coverage of it if you're stuck indoors or suffer the cruel fate of cloud cover.  
 * There is something crazy cool that sometimes happens on the ground around you before and after totality, called '[Shadow Bands (a.k.a Shadow Snakes)](https://youtu.be/qc7MfcKF1-s?t=4m2s)'.  
 * [Here's some counsel](https://www.washingtonpost.com/amphtml/news/capital-weather-gang/wp/2017/07/25/no-firm-travel-plans-for-the-solar-eclipse-heres-what-to-expect-if-you-wing-it/) if you don't take my advice to plan ahead and just decide to wing it day of instead.  
+* Remember that everywhere that is getting press about a viewing event will potentially be a crazy mess of people on the day of.  Consider going to other places without events if you can find a passable spot.  This'll be like viewing your city's fireworks - there's a bunch of places you can watch it from and have a good time.  
+* Be patient, avoid road rage, and have in mind a willingness to pull off the road and enjoy the eclipse at a place you didn’t plan for.  That said, if you're on the side of a road: pull well off, always beware passing traffic, and stay well away from the road.
+* Not just during the totality, but really throughout the entire eclipse, beware of distracted driving by other people who are not paying attention to the road because they are craning their neck to see the moon going in front of the sun.
+* In addition to planning to arrive way early, it's also worth giving extra time after the eclipse before getting back on the road in order to give traffic time to die down.  There's a lot of roads that weren't made for the traffic that'll be on them for this event.  
+
 
 ## What I'll Be Doing To Plan Ahead For It
 
@@ -65,6 +70,14 @@ Really - trust me: read and listen to these.
 * Using [this tool by Vox](https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map) to see what the peak time for the eclipse will be and when the partial eclipse will start/finish where I'm at.  
 * A few days before, search the websites of local newspapers for coverage and google local city names and the word eclipse to get a sense of what's happening in the area.  
 
+## Clouds 
+
+* Needless to say, clouds are the enemy on August 21.
+* [Here's a good overview of the threat](http://eclipse2017.org/blog/2016/11/12/what-if-its-cloudy-that-day/).  
+* There's a number of resources for [trying to](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/06/16/how-to-avoid-clouds-that-could-spoil-the-great-american-eclipse/?tid=a_inl&utm_term=.d1fbc45412bd) [predict cloud cover](https://www.ncei.noaa.gov/news/ready-set-eclipse) [using historical data](http://www.uidaho.edu/cnr/departments/natural-resources-and-society/solareclipse).  
+* The Capital Weather Gang has even made '[A way-too-early solar eclipse weather forecast as of Aug. 3, 2017](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/08/03/a-way-too-early-solar-eclipse-weather-forecast-as-of-aug-3-2017/?tid=hybrid_collaborative_1_na-amp&utm_term=.93946a008f86)'.
+* But really, your best bet is going to be to study weather forecasts in the days leading up to Aug. 21, have the means of driving a good ways towards clear skies if you need, coming up with backup locations, being flexible, and then just plain wishing for the best and being zen about it if you have bad luck.  
+* Note though that if you're in the path of totality - even if it's cloudy, you'll still be able to have a cool and strange experience because it'll still turn to night where you are.  
 
 ## If You Can't Travel To See The Total Eclipse
 
@@ -102,7 +115,6 @@ Nope.  If you haven't traveled overseas for it, whatever you're remembering was 
 * That said, the next one will be kinda soon-ish.  In 2024, [another total eclipse](https://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2024Apr08Tgoogle.html) will travel from Texas up through the Midwest and depart by way of New England.  
 
 
-
 ## Eye Safety 
 
 * There are many ways to enjoy and experience a solar eclipse safely.  One just needs to be aware.  
@@ -112,6 +124,7 @@ Nope.  If you haven't traveled overseas for it, whatever you're remembering was 
 * No matter who you order from, watch out for 2 things: shipping time/availability but also: [fakes or knock-offs](https://www.washingtonpost.com/business/get-there/dont-be-blindsided-during-the-eclipse/2017/08/01/437348b2-76d0-11e7-8f39-eeb7d3a2d304_story.html).  
 * If you've already gotten some eclipse glasses, check them - they should say ‘ISO 12312-2’ on them, but note that that can be faked, too.  Your best bet is to order from a reliable source and/or to buy [one of these vetted brands](https://eclipse.aas.org/resources/solar-filters).   
 * Still need glasses and can't find any online that you trust?  Check with your local library.  Thousands of libraries nationwide are handing them out for free.  
+
 
 ##  Thoughts, questions?  
 
