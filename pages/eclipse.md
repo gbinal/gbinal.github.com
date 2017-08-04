@@ -97,7 +97,6 @@ Really - trust me: read and listen to these.
 
 Nope.  If you haven't traveled overseas for it, whatever you're remembering was likely a partial solar eclipse, which [they say](https://s-media-cache-ak0.pinimg.com/originals/84/34/2d/84342d5721fc2cbd02fea95879206c2b.jpg) is not at all the same thing.  
 
-* 
 * [Visualization of the 10 total solar eclipses in the continental US over the past 100 years and the 8 coming up over the next 100 years](https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/07/2300-eclipse-american-centuries.jpg&w=1484)
 * [Here's a tool](https://www.washingtonpost.com/graphics/national/eclipse/?utm_term=.51cc58e9ee76) that will show you all of the ones that have and will take place in your lifetime if you live to be 100.  
 * That said, the next one will be kinda soon-ish.  In 2024, [another total eclipse](https://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2024Apr08Tgoogle.html) will travel from Texas up through the Midwest and depart by way of New England.  
