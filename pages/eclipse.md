@@ -4,13 +4,13 @@ title: "Eclipse 2017 Notes"
 permalink: /eclipse/
 ---
 
-So - On Monday August 21, 2017 - there's going to be a really cool event - a total solar eclipse.  Here are some notes:  
+So ... On Monday August 21, 2017, there's going to be a really cool event - a total solar eclipse.  Here are some notes:  
 
 
 ## TL;DR 
 * If you can at all do it, plan for and travel to see the totality of the solar eclipse instead of being content to see a partial eclipse.  
 * Read more below and plan ahead - don't plan to wing it the day of.  
-* If you can't travel to see the totality of a solar eclipse, you'll likely still see a partial eclipse almost anywhere in the country, which'll be really cool and is also worth planning for.  Read more below.  
+* If you can't travel to see the totality of a solar eclipse, you'll likely still see a partial eclipse almost anywhere in the country, which'll still be really cool and is also worth planning for.  Read more below.  
 
 
 ## Testimonials On Why Seeing A Total Solar Eclipse Is Amazing 
@@ -32,27 +32,27 @@ Really - trust me: read and listen to these.
 * [Drive Times](https://espnfivethirtyeight.files.wordpress.com/2017/07/kelly-eclipse-towns-0619-1.png?quality=90&strip=info&w=1024&ssl=1) [To Get To The Totality](https://static1.squarespace.com/static/53c358b6e4b01b8adb4d5870/t/59209132d1758e2fd5c1c9ab/1495306568866/?format=1000w)
 
 ## Notable Resources
-* State by State description 
 * [A solid Q&A from the Washington Post](https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html)
-* [A great preview video from Smarter Every Day](https://www.youtube.com/watch?v=qc7MfcKF1-s)
+* [A really interesting preview video from Smarter Every Day](https://www.youtube.com/watch?v=qc7MfcKF1-s)
+* [A great state-by-state description of what'll happen across the country](http://www.eclipse2017.org/2017/path_through_the_US.htm)
 * More articles from [Vox](https://www.vox.com/2017/7/26/15993716/solar-eclipse-2017), [Buzzfeed](https://www.buzzfeed.com/eclipse), the [Washington Post](https://www.washingtonpost.com/newssearch/?query=eclipse&spellcheck=false), [FiveThirtyEight](https://fivethirtyeight.com/?s=eclipse). 
 
 ## Major Hubs of Information
 * [NASA](https://eclipse2017.nasa.gov/)
 * [American Astronomical Society](https://eclipse.aas.org/)
-* [Eclipse2017.org](http://www.eclipse2017.org/eclipse2017_main.htm) (My favorite)
+* [Eclipse2017.org](http://www.eclipse2017.org/eclipse2017_main.htm) (This one's my favorite - I basically recommend reading every page of it.)
 * [GreatAmericanEclipse.com](https://www.greatamericaneclipse.com/)
 * [NationalEclipse.com](http://nationaleclipse.com)
 
 
 ## Assorted Notes 
 
-* Remember that for roughly an hour before and after the total eclipse, there will be a partial eclipse occuring that'll be really cool to see.  You can use [this tool](https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map), [this map], or [this map] to find out what the start and finish times will be.  
-* Consider [taking children out of school to experience this](http://eclipse2017.org/blog/2017/06/19/should-i-take-my-kids-out-of-school-to-see-the-total-eclipse/).  Many schools will understandably choose to keep them indoors intentionally in order to avoid any liabiity on their part and given how rare and wonderful of an event this is, if you can [help](https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html#4799181) [them]https://www.washingtonpost.com/news/parenting/wp/2017/06/29/how-to-get-kids-ready-for-and-excited-about-the-great-american-eclipse/?utm_term=.eb5c3187f6b0) to [experience it](http://eclipse2017.org/blog/question/babies-and-toddlers/) [safely](http://www.bigkidscience.com/eclipse/safe-viewing/), do!  
+* Remember that for roughly an hour before and after the total eclipse, there will be a partial eclipse occuring that'll be really cool to see.  You can use [this tool](https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map) and [this map](https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html) to find out what the start and finish times will be.  
+* Consider [taking children out of school to experience this](http://eclipse2017.org/blog/2017/06/19/should-i-take-my-kids-out-of-school-to-see-the-total-eclipse/).  Many schools will understandably choose to keep them indoors intentionally in order to avoid any liabiity on their part and given how rare and wonderful of an event this is, if you can [help](https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html#4799181) [them](https://www.washingtonpost.com/news/parenting/wp/2017/06/29/how-to-get-kids-ready-for-and-excited-about-the-great-american-eclipse/?utm_term=.eb5c3187f6b0) to [experience it](http://eclipse2017.org/blog/question/babies-and-toddlers/) [safely](http://www.bigkidscience.com/eclipse/safe-viewing/), do!  
 * In general, don't bother too much trying to take pictures of the sun - it's hard to do well, distracts you from enjoying the moment, and there'll be tons of other professional photography taken that you can point to afterwards anyways.  If you want to try though, [here's](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/08/01/want-to-use-your-phone-to-photograph-the-solar-eclipse-read-this-first) [some](http://www.popularmechanics.com/space/solar-system/a27064/how-to-photograph-a-solar-eclipse/) [articles](http://www.eclipse2017.org/2017/photographing.HTM).  
 * The total eclipse will begin in Oregon at about 10:15AM PT/1:15PM ET.  The 70-mile wide total shadow will then travel at ~2,000 miles per hour (~32 miles per minute) across the country before exiting South Carolina at about 11:50AM PT/2:50PM ET.  Areas right in the middle of the totality will get about 2 1/2 minutes of straight up nighttime.  The national event will last about an hour and a half and there'll be plenty of live streams and tv coverage of it if you're stuck indoors or suffer the cruel fate of cloud cover.  
 * There is something crazy cool that sometimes happens on the ground around you before and after totality, called '[Shadow Bands (a.k.a Shadow Snakes)](https://youtu.be/qc7MfcKF1-s?t=4m2s)'.  
-* [Here's some advice](https://www.washingtonpost.com/amphtml/news/capital-weather-gang/wp/2017/07/25/no-firm-travel-plans-for-the-solar-eclipse-heres-what-to-expect-if-you-wing-it/) if you don't take my advice to plan ahead and just decide to wing it day of.  
+* [Here's some counsel](https://www.washingtonpost.com/amphtml/news/capital-weather-gang/wp/2017/07/25/no-firm-travel-plans-for-the-solar-eclipse-heres-what-to-expect-if-you-wing-it/) if you don't take my advice to plan ahead and just decide to wing it day of instead.  
 
 ## What I'll Be Doing To Plan Ahead For It
 
@@ -61,83 +61,60 @@ Really - trust me: read and listen to these.
 * Plan out day and plan to get on the road very early.  
 * Bring food and otherwise plan to bring lunch with me.  
 * [Download the area I'm in on Google Maps](https://support.google.com/maps/answer/6291838?co=GENIE.Platform%3DAndroid&hl=en&oco=0) in advance in case of poor reception or overloaded cell signals.  
-* [Review local viewing events as candidates for where to watch from; consider backup locations in case of cloud cover](https://eclipse2017.nasa.gov/sites/default/files/2017_solar_eclipse_general_events.html).
+* [Consider local viewing events as candidates for where to watch from and also consider backup locations in case of cloud cover](https://eclipse2017.nasa.gov/sites/default/files/2017_solar_eclipse_general_events.html).
 * Using [this tool by Vox](https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map) to see what the peak time for the eclipse will be and when the partial eclipse will start/finish where I'm at.  
 * A few days before, search the websites of local newspapers for coverage and google local city names and the word eclipse to get a sense of what's happening in the area.  
 
 
 ## If You Can't Travel To See The Total Eclipse
+
 * [Here's a quick preview of how much of an eclipse you'll get](https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/07/2300-eclipse-grid.jpg&w=1484)
 * Use [this tool by Vox](https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map) to find out how much of the sun will be blocked where you are at, what the peak time for the eclipse will be and when the partial eclipse will start/finish where you are at. 
 * Use [this map by NASA](https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html) to click on where you'll be and to find out start times, peak times, end times, and more.  
 * Find [NASA-registered eclipse viewing events](https://eclipse2017.nasa.gov/sites/default/files/2017_solar_eclipse_general_events.html) near you.  
 
 
-
 ## Local Resources 
 
-* Check out each of the resources in the previous section to find out results specific to you.  
+* Check out each of the resources in the previous section to find out information specific to your area.  
 * Search the websites of local newspapers for coverage and google local city names and the word eclipse to get a sense of what's happening near you.  
 
-
-
-
-* SF 
-  * 
-* DC 
-  * [Check out this solid Q&A from the Washington Post](https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html)
 * Huntsville 
-  * 
+  * The eclipse will start at 12:00pm; peak at 1:30pm, when the moon obscures 96.9% of the sun; and end at 2:57pm.
+  * [News coverage on al.com](http://search.al.com/eclipse/)
 * Columbus
-  * 
+  * The eclipse will start at 1:04pm; peak at 2:30pm, when the moon obscures 86.2% of the sun; and end at 3:52pm.
+  * [News coverage by the Columbus Dispatch](http://www.dispatch.com/search?text=eclipse)
+* San Francisco
+  * The eclipse will start at 9:02am; peak at 10:15am, when the moon obscures 75.6% of the sun; and end at 11:37am.
+  * [News coverage by the San Francisco Gate](http://www.sfgate.com/search/?action=search&firstRequest=1&searchindex=solr&query=eclipse)
+* DC 
+  * The eclipse will start at 1:18pm; peak at 2:42pm, when the moon obscures 81% of the sun; and end at 4:02pm.
+  * [Check out this solid Q&A from the Washington Post](https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html)
 
+
+## But Wait - Hasn't This Happened A Bunch Before?  
+
+Nope.  If you haven't traveled overseas for it, whatever you're remembering was likely a partial solar eclipse, which [they say](https://s-media-cache-ak0.pinimg.com/originals/84/34/2d/84342d5721fc2cbd02fea95879206c2b.jpg) is not at all the same thing.  
+
+* 
+* [Visualization of the 10 total solar eclipses in the continental US over the past 100 years and the 8 coming up over the next 100 years](https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/07/2300-eclipse-american-centuries.jpg&w=1484)
+* [Here's a tool](https://www.washingtonpost.com/graphics/national/eclipse/?utm_term=.51cc58e9ee76) that will show you all of the ones that have and will take place in your lifetime if you live to be 100.  
+* That said, the next one will be kinda soon-ish.  In 2024, [another total eclipse](https://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2024Apr08Tgoogle.html) will travel from Texas up through the Midwest and depart by way of New England.  
 
 
 
 ## Eye Safety 
 
+* There are many ways to enjoy and experience a solar eclipse safely.  One just needs to be aware.  
+* At any stage other than when the sun is completely, 100% blocked by the moon, you need eclipse glasses to straight at the sun.  Sunglasses will never do, even if it feels like they work well enough.  
+* With sunglasses or as the sun becomes mostly blocked, it may feel less intense to look at the sun and seem like it's not doing you any harm, but [you'd be wrong](https://www.buzzfeed.com/sallytamarkin/heres-what-actually-happens-if-you-look-directly-at-the-sun?utm_term=.ns5EVljBP#.qc2gOG0Bz) - [it will be](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/06/30/what-happens-if-you-try-to-watch-the-august-solar-eclipse-without-special-glasses-nothing-good/?utm_term=.f4fb75f8e924).  Even a mostly obscured sun should still not be looked at without eclipse glasses.  
+* Here's [wirecutter's review](http://thewirecutter.com/reviews/best-solar-eclipse-glasses-and-filters/) of the best solar eclipse glasses and filters. Note though that, in part due to their recommendation, some of these are selling out and won't arrive at your house in time.  I bought their recommended 2x viewers from REI a couple weeks ago with an expected shipping time of 6 days, and later realized that they on backorder and mine would ship after I'd already left town.  The article is still a great overview of the topic though if you want a good read anyway.  
+* No matter who you order from, watch out for 2 things: shipping time/availability but also: [fakes or knock-offs](https://www.washingtonpost.com/business/get-there/dont-be-blindsided-during-the-eclipse/2017/08/01/437348b2-76d0-11e7-8f39-eeb7d3a2d304_story.html).  
+* If you've already gotten some eclipse glasses, check them - they should say ‘ISO 12312-2’ on them, but note that that can be faked, too.  Your best bet is to order from a reliable source and/or to buy [one of these vetted brands](https://eclipse.aas.org/resources/solar-filters).   
+* Still need glasses and can't find any online that you trust?  Check with your local library.  Thousands of libraries nationwide are handing them out for free.  
 
-http://thewirecutter.com/reviews/best-solar-eclipse-glasses-and-filters/
+##  Thoughts, questions?  
 
-
-At any stage other than when the sun is completely, 100% blocked by the moon, you need eclipse glasses.  As soon as the sun starts to reappear, you gotta switch back to 
-Sunglasses will never do.  
-It’ll seem okay, like you can get away with it, but you’re doing long-term permanent damage to your eyes.  It won’t be as painful but it will still damage you 
-Beware of fakes - they should say ‘ISO 12312-2’ but that can be faked, too.  Here’s a good list of vetted manufacturers - https://eclipse.aas.org/resources/solar-filters.  
-https://www.washingtonpost.com/business/get-there/dont-be-blindsided-during-the-eclipse/2017/08/01/437348b2-76d0-11e7-8f39-eeb7d3a2d304_story.html
-
-
-
-
-More on the damage and risk here.  
-
-https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/06/30/what-happens-if-you-try-to-watch-the-august-solar-eclipse-without-special-glasses-nothing-good/?utm_term=.f4fb75f8e924
-
-https://www.buzzfeed.com/sallytamarkin/heres-what-actually-happens-if-you-look-directly-at-the-sun?utm_term=.ns5EVljBP#.qc2gOG0Bz
-
-https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/06/30/what-happens-if-you-try-to-watch-the-august-solar-eclipse-without-special-glasses-nothing-good/?utm_term=.f4fb75f8e924
-
-Reputable vendors - https://eclipse.aas.org/resources/solar-filters
-
-knockoffs
-
-Need glasses and can’t get them?  Check with your local library.  
-
-
-## But Wait - Hasn't This Happened A Bunch Before?  
-
-Not really.  If you haven't traveled overseas for it, whatever you're remembering was likely a partial solar eclipse, not at all the same thing.  
-
-* [Visualization of the 10 total solar eclipses in the continental US over the past 100 years and the 8 coming up over the next 100 years](https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/07/2300-eclipse-american-centuries.jpg&w=1484)
-* [Here's a tool](https://www.washingtonpost.com/graphics/national/eclipse/?utm_term=.51cc58e9ee76) that will show you all of the ones that have and will take place in your lifetime if you live to be 100.  
-
-
-
-## Tips
-
-* 
-
-
-## Other Links
-* [Buzzfeed's descriptions of some good viewing spots around the country](https://www.buzzfeed.com/zahrahirji/spectacular-views-of-the-eclipse?utm_term=.thoLxy2o7#.whRRn90zg)
+As you may have been able to tell, I'm pretty enthused about this.  Feel free to hit me up if you have questions, want to think through possible plans you're forming, or just want to hear me wax poetic about this topic some more.  
 
