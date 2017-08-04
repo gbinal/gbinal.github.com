@@ -15,7 +15,7 @@ So - On Monday August 21, 2017 - there's going to be a really cool event - a tot
 
 ## Testimonials On Why Seeing A Total Solar Eclipse Is Amazing 
 
-Really - trust me: Read and listen to these.  
+Really - trust me: read and listen to these.  
 
 * [The splendor of totality](https://www.greatamericaneclipse.com/splendor/) - Great American Eclipse
 * [What's so awe-inspiring about solar eclipses, in one paragraph](https://www.vox.com/science-and-health/2017/7/17/15965422/solar-eclipse-2017-august-totality-awesome) - Vox
@@ -29,26 +29,30 @@ Really - trust me: Read and listen to these.
 * [Eclipse-viewing events registered with NASA](https://eclipse2017.nasa.gov/sites/default/files/2017_solar_eclipse_general_events.html)
 * [A very useful map by NASA that lets you click anywhere and see start times, peak times, end times, and more](https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html)
 * [State by State Maps from NASA](https://www.vox.com/science-and-health/2017/6/15/15804336/2017-solar-eclipse-map-united-states-nasa)
+* [Drive Times](https://espnfivethirtyeight.files.wordpress.com/2017/07/kelly-eclipse-towns-0619-1.png?quality=90&strip=info&w=1024&ssl=1) [To Get To The Totality](https://static1.squarespace.com/static/53c358b6e4b01b8adb4d5870/t/59209132d1758e2fd5c1c9ab/1495306568866/?format=1000w)
 
-## Other Resources
+## Notable Resources
 * State by State description 
 * [A solid Q&A from the Washington Post](https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html)
 * [A great preview video from Smarter Every Day](https://www.youtube.com/watch?v=qc7MfcKF1-s)
-* More articles from [Vox](https://www.vox.com/2017/7/26/15993716/solar-eclipse-2017), [Buzzfeed](https://www.buzzfeed.com/eclipse), 
+* More articles from [Vox](https://www.vox.com/2017/7/26/15993716/solar-eclipse-2017), [Buzzfeed](https://www.buzzfeed.com/eclipse), the [Washington Post](https://www.washingtonpost.com/newssearch/?query=eclipse&spellcheck=false), [FiveThirtyEight](https://fivethirtyeight.com/?s=eclipse). 
+
+## Major Hubs of Information
+* [NASA](https://eclipse2017.nasa.gov/)
+* [American Astronomical Society](https://eclipse.aas.org/)
+* [Eclipse2017.org](http://www.eclipse2017.org/eclipse2017_main.htm) (My favorite)
+* [GreatAmericanEclipse.com](https://www.greatamericaneclipse.com/)
+* [NationalEclipse.com](http://nationaleclipse.com)
 
 
 ## Assorted Notes 
 
 * Remember that for roughly an hour before and after the total eclipse, there will be a partial eclipse occuring that'll be really cool to see.  You can use [this tool](https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map), [this map], or [this map] to find out what the start and finish times will be.  
-* Consider taking children out of school to experience this.  Many schools will understandably choose to keep them indoors intentionally in order to avoid any liabiity on their part and given how rare and wonderful of an event this is, if you can [help](https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html#4799181) them to experience it safely, do!  
-* In general, don't bother too much trying to take pictures of the sun - it's hard to do well, distracts you from enjoying the moment, and there'll be tons of other professional photography taken that you can point to afterwards anyways.  If you want to try though, [here's](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/08/01/want-to-use-your-phone-to-photograph-the-solar-eclipse-read-this-first) some articles.  
+* Consider [taking children out of school to experience this](http://eclipse2017.org/blog/2017/06/19/should-i-take-my-kids-out-of-school-to-see-the-total-eclipse/).  Many schools will understandably choose to keep them indoors intentionally in order to avoid any liabiity on their part and given how rare and wonderful of an event this is, if you can [help](https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html#4799181) [them]https://www.washingtonpost.com/news/parenting/wp/2017/06/29/how-to-get-kids-ready-for-and-excited-about-the-great-american-eclipse/?utm_term=.eb5c3187f6b0) to [experience it](http://eclipse2017.org/blog/question/babies-and-toddlers/) [safely](http://www.bigkidscience.com/eclipse/safe-viewing/), do!  
+* In general, don't bother too much trying to take pictures of the sun - it's hard to do well, distracts you from enjoying the moment, and there'll be tons of other professional photography taken that you can point to afterwards anyways.  If you want to try though, [here's](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/08/01/want-to-use-your-phone-to-photograph-the-solar-eclipse-read-this-first) [some](http://www.popularmechanics.com/space/solar-system/a27064/how-to-photograph-a-solar-eclipse/) [articles](http://www.eclipse2017.org/2017/photographing.HTM).  
 * The total eclipse will begin in Oregon at about 10:15AM PT/1:15PM ET.  The 70-mile wide total shadow will then travel at ~2,000 miles per hour (~32 miles per minute) across the country before exiting South Carolina at about 11:50AM PT/2:50PM ET.  Areas right in the middle of the totality will get about 2 1/2 minutes of straight up nighttime.  The national event will last about an hour and a half and there'll be plenty of live streams and tv coverage of it if you're stuck indoors or suffer the cruel fate of cloud cover.  
-
-
-
-articles on children...
-
-
+* There is something crazy cool that sometimes happens on the ground around you before and after totality, called '[Shadow Bands (a.k.a Shadow Snakes)](https://youtu.be/qc7MfcKF1-s?t=4m2s)'.  
+* [Here's some advice](https://www.washingtonpost.com/amphtml/news/capital-weather-gang/wp/2017/07/25/no-firm-travel-plans-for-the-solar-eclipse-heres-what-to-expect-if-you-wing-it/) if you don't take my advice to plan ahead and just decide to wing it day of.  
 
 ## What I'll Be Doing To Plan Ahead For It
 
@@ -63,6 +67,7 @@ articles on children...
 
 
 ## If You Can't Travel To See The Total Eclipse
+* [Here's a quick preview of how much of an eclipse you'll get](https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/07/2300-eclipse-grid.jpg&w=1484)
 * Use [this tool by Vox](https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map) to find out how much of the sun will be blocked where you are at, what the peak time for the eclipse will be and when the partial eclipse will start/finish where you are at. 
 * Use [this map by NASA](https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html) to click on where you'll be and to find out start times, peak times, end times, and more.  
 * Find [NASA-registered eclipse viewing events](https://eclipse2017.nasa.gov/sites/default/files/2017_solar_eclipse_general_events.html) near you.  
@@ -117,6 +122,14 @@ Reputable vendors - https://eclipse.aas.org/resources/solar-filters
 knockoffs
 
 Need glasses and can’t get them?  Check with your local library.  
+
+
+## But Wait - Hasn't This Happened A Bunch Before?  
+
+Not really.  If you haven't traveled overseas for it, whatever you're remembering was likely a partial solar eclipse, not at all the same thing.  
+
+* [Visualization of the 10 total solar eclipses in the continental US over the past 100 years and the 8 coming up over the next 100 years](https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/07/2300-eclipse-american-centuries.jpg&w=1484)
+* [Here's a tool](https://www.washingtonpost.com/graphics/national/eclipse/?utm_term=.51cc58e9ee76) that will show you all of the ones that have and will take place in your lifetime if you live to be 100.  
 
 
 
