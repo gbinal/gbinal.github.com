@@ -1,5 +1,5 @@
 # Base configuration
-permalink: http://www.graybrooks.com
+permalink: https://www.graybrooks.com
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 
@@ -27,7 +27,7 @@ baseurl: 'https://gbinal.github.com'
 # Author/Organization info to be displayed in the templates
 author:
   name: Gray Brooks
-  url: http://www.graybrooks.com
+  url: https://www.graybrooks.com
 
 # ------------------------------------------------------------------
 #   Navigation
@@ -39,7 +39,7 @@ navigation:
   url: /index.html
   internal: true
 - text: APIs In Government
-  url: http://pages.18f.gov/API-All-the-X/
+  url: https://api-all-the-x.18f.gov/
   internal: false
 - text: Good Stuff
   url: /pages/good_stuff
