@@ -1,3 +1,8 @@
+
+This website template was created by the talented folks at the CFPB.  I'm very grateful for their good work in government and in the open source community. Below is their original copyright terms for the project.  
+
+=====
+
 As a work of the United States Government, this package is in the
 public domain within the United States. Additionally, we waive
 copyright and related rights in the work worldwide through the CC0 1.0
