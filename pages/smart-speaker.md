@@ -107,7 +107,7 @@ Many of these already exist and I just haven't documented the correct query yet,
 * Speakerphone for my telephone 
 * Integrate with Google Music
 * NPR One 
-* Deeper Integratation with NPR 
+* Deeper Integration with NPR 
 * Integrate with Remember the Milk
 * Tell me when the next bus is coming (to a bus stop I preset)
 * Tell me when the next subway is coming (to a metro stop I preset)

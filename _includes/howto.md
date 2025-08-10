@@ -58,7 +58,7 @@ Navigate to the file ```_config.yml``` in your project's root directory. Change 
 ```name: ``` element on line 18 or so to your desired site's name.
 
 {% highlight yaml %}
-# Your Programs's Name
+# Your Program's Name
 name: A Government Open Source Program
 subtitle: A set of templates and artifacts to support open source programs 
 {% endhighlight %}

@@ -6,7 +6,7 @@ permalink: /security/
 
 It's very tempting not to worry about securing yourself online. We've all felt fairly safe, with not too much at risk.  It's more important to some of us to make sure our door is locked at night.  But much of our lives is increasingly exposed and here's what I advise all of my friends and family.  
 
-One quick note first.  Please don't let any of this scare you. I don't mean to make you think that the internet is a big, scray place that you should avoid, but instead just want to offer common sense advice now that we all are empowered by and use it.  Some of this will feel techinical at first, but please hang in there - you really will get used to all of this, and with familiarity will come fluency.  
+One quick note first.  Please don't let any of this scare you. I don't mean to make you think that the internet is a big, scary place that you should avoid, but instead just want to offer common sense advice now that we all are empowered by and use it.  Some of this will feel technical at first, but please hang in there - you really will get used to all of this, and with familiarity will come fluency.  
 
 ## Advice (summary)
 
@@ -24,7 +24,7 @@ One quick note first.  Please don't let any of this scare you. I don't mean to m
 There are a few realms of risk that we all have, generally in this order of severity:  
 
 1. Money that can be taken away from you
-2. Financial damange that can be done to you
+2. Financial damage that can be done to you
 3. Data of yours that can be:
   4. Destroyed 
   5. Held hostage 
