@@ -1,0 +1,1330 @@
+{
+  "external_links": [
+    {
+      "type": "markdown",
+      "text": "CC0 Public Domain Dedication",
+      "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "file": "README.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Respond.js",
+      "url": "https://github.com/scottjehl/Respond",
+      "file": "TERMS.md"
+    },
+    {
+      "type": "markdown",
+      "text": "The HTML5 Shiv",
+      "url": "https://github.com/aFarkas/html5shiv",
+      "file": "TERMS.md"
+    },
+    {
+      "type": "markdown",
+      "text": "pull request",
+      "url": "https://help.github.com/articles/using-pull-requests",
+      "file": "CONTRIBUTING.md"
+    },
+    {
+      "type": "markdown",
+      "text": "United States of Pop - 2013 Montage",
+      "url": "https://www.youtube.com/watch?v=ZGRQKKaox5Q",
+      "file": "pages/music.md"
+    },
+    {
+      "type": "markdown",
+      "text": "this delightful piece",
+      "url": "https://youtu.be/qr6ar3xJL_Q",
+      "file": "pages/john_oliver.md"
+    },
+    {
+      "type": "markdown",
+      "text": "a bit of background",
+      "url": "https://youtu.be/qr6ar3xJL_Q?t=2m53s",
+      "file": "pages/john_oliver.md"
+    },
+    {
+      "type": "markdown",
+      "text": "some more outstanding FIFA coverage",
+      "url": "https://youtu.be/rkdvawW6Vzw",
+      "file": "pages/john_oliver.md"
+    },
+    {
+      "type": "markdown",
+      "text": "some recent maneuvers by Warner",
+      "url": "https://youtu.be/rkdvawW6Vzw?t=2m24s",
+      "file": "pages/john_oliver.md"
+    },
+    {
+      "type": "markdown",
+      "text": "aired two days later",
+      "url": "https://www.youtube.com/watch?v=ji6pj2PX-Io",
+      "file": "pages/john_oliver.md"
+    },
+    {
+      "type": "markdown",
+      "text": "The following Sunday",
+      "url": "https://www.youtube.com/watch?v=DQmGMJBHhaI",
+      "file": "pages/john_oliver.md"
+    },
+    {
+      "type": "markdown",
+      "text": "The splendor of totality",
+      "url": "https://www.greatamericaneclipse.com/splendor/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "What's so awe-inspiring about solar eclipses, in one paragraph",
+      "url": "https://www.vox.com/science-and-health/2017/7/17/15965422/solar-eclipse-2017-august-totality-awesome",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "The Total Eclipse Of 1878",
+      "url": "http://www.npr.org/2017/07/15/537381259/the-total-eclipse-of-1878",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "America\u2019s greatest eclipse is coming, and this man wants you to see it",
+      "url": "https://www.washingtonpost.com/national/health-science/a-lifelong-eclipse-chasers-promise-to-america-you-will-never-be-the-same/2017/07/17/65c29212-68af-11e7-8eb5-cbccc2e7bfbf_story.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "I watched a total eclipse of the sun. You don\u2019t want to miss the next one.",
+      "url": "https://www.washingtonpost.com/news/posteverything/wp/2017/06/21/i-watched-a-total-eclipse-of-the-sun-you-dont-want-to-miss-the-next-one/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Eclipse-viewing events registered with NASA",
+      "url": "https://eclipse2017.nasa.gov/sites/default/files/2017_solar_eclipse_general_events.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "A very useful map by NASA that lets you click anywhere and see start times, peak times, end times, and more",
+      "url": "https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "State by State Maps from NASA",
+      "url": "https://www.vox.com/science-and-health/2017/6/15/15804336/2017-solar-eclipse-map-united-states-nasa",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Drive Times",
+      "url": "https://espnfivethirtyeight.files.wordpress.com/2017/07/kelly-eclipse-towns-0619-1.png?quality=90&strip=info&w=1024&ssl=1",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "To Get To The Totality",
+      "url": "https://static1.squarespace.com/static/53c358b6e4b01b8adb4d5870/t/59209132d1758e2fd5c1c9ab/1495306568866/?format=1000w",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "A solid Q&A from the Washington Post",
+      "url": "https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "A really interesting preview video from Smarter Every Day",
+      "url": "https://www.youtube.com/watch?v=qc7MfcKF1-s",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "A great state-by-state description of what'll happen across the country",
+      "url": "http://www.eclipse2017.org/2017/path_through_the_US.htm",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Vox",
+      "url": "https://www.vox.com/2017/7/26/15993716/solar-eclipse-2017",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Buzzfeed",
+      "url": "https://www.buzzfeed.com/eclipse",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Washington Post",
+      "url": "https://www.washingtonpost.com/newssearch/?query=eclipse&spellcheck=false",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/?s=eclipse",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "NASA",
+      "url": "https://eclipse2017.nasa.gov/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "American Astronomical Society",
+      "url": "https://eclipse.aas.org/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Eclipse2017.org",
+      "url": "http://www.eclipse2017.org/eclipse2017_main.htm",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "GreatAmericanEclipse.com",
+      "url": "https://www.greatamericaneclipse.com/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "NationalEclipse.com",
+      "url": "http://nationaleclipse.com",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "this tool",
+      "url": "https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "this map",
+      "url": "https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "taking children out of school to experience this",
+      "url": "http://eclipse2017.org/blog/2017/06/19/should-i-take-my-kids-out-of-school-to-see-the-total-eclipse/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "help",
+      "url": "https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html#4799181",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "them",
+      "url": "https://www.washingtonpost.com/news/parenting/wp/2017/06/29/how-to-get-kids-ready-for-and-excited-about-the-great-american-eclipse/?utm_term=.eb5c3187f6b0",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "experience it",
+      "url": "http://eclipse2017.org/blog/question/babies-and-toddlers/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "safely",
+      "url": "http://www.bigkidscience.com/eclipse/safe-viewing/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "here's",
+      "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/08/01/want-to-use-your-phone-to-photograph-the-solar-eclipse-read-this-first",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "some",
+      "url": "http://www.popularmechanics.com/space/solar-system/a27064/how-to-photograph-a-solar-eclipse/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "articles",
+      "url": "http://www.eclipse2017.org/2017/photographing.HTM",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Shadow Bands (a.k.a Shadow Snakes)",
+      "url": "https://youtu.be/qc7MfcKF1-s?t=4m2s",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Here's some counsel",
+      "url": "https://www.washingtonpost.com/amphtml/news/capital-weather-gang/wp/2017/07/25/no-firm-travel-plans-for-the-solar-eclipse-heres-what-to-expect-if-you-wing-it/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Download the area I'm in on Google Maps",
+      "url": "https://support.google.com/maps/answer/6291838?co=GENIE.Platform%3DAndroid&hl=en&oco=0",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Consider local viewing events as candidates for where to watch from and also consider backup locations in case of cloud cover",
+      "url": "https://eclipse2017.nasa.gov/sites/default/files/2017_solar_eclipse_general_events.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "this tool by Vox",
+      "url": "https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Here's a good overview of the threat",
+      "url": "http://eclipse2017.org/blog/2016/11/12/what-if-its-cloudy-that-day/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "trying to",
+      "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/06/16/how-to-avoid-clouds-that-could-spoil-the-great-american-eclipse/?tid=a_inl&utm_term=.d1fbc45412bd",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "predict cloud cover",
+      "url": "https://www.ncei.noaa.gov/news/ready-set-eclipse",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "using historical data",
+      "url": "http://www.uidaho.edu/cnr/departments/natural-resources-and-society/solareclipse",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "A way-too-early solar eclipse weather forecast as of Aug. 3, 2017",
+      "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/08/03/a-way-too-early-solar-eclipse-weather-forecast-as-of-aug-3-2017/?tid=hybrid_collaborative_1_na-amp&utm_term=.93946a008f86",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Here's a quick preview of how much of an eclipse you'll get",
+      "url": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/07/2300-eclipse-grid.jpg&w=1484",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "this tool by Vox",
+      "url": "https://www.vox.com/science-and-health/2017/7/25/16019892/solar-eclipse-2017-interactive-map",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "this map by NASA",
+      "url": "https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "NASA-registered eclipse viewing events",
+      "url": "https://eclipse2017.nasa.gov/sites/default/files/2017_solar_eclipse_general_events.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "News coverage on al.com",
+      "url": "http://search.al.com/eclipse/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "News coverage by the Columbus Dispatch",
+      "url": "http://www.dispatch.com/search?text=eclipse",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "News coverage by the San Francisco Gate",
+      "url": "http://www.sfgate.com/search/?action=search&firstRequest=1&searchindex=solr&query=eclipse",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Check out this solid Q&A from the Washington Post",
+      "url": "https://live.washingtonpost.com/qa-eclipse-coverage-live-20170801.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "they say",
+      "url": "https://s-media-cache-ak0.pinimg.com/originals/84/34/2d/84342d5721fc2cbd02fea95879206c2b.jpg",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Visualization of the 10 total solar eclipses in the continental US over the past 100 years and the 8 coming up over the next 100 years",
+      "url": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/07/2300-eclipse-american-centuries.jpg&w=1484",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Here's a tool",
+      "url": "https://www.washingtonpost.com/graphics/national/eclipse/?utm_term=.51cc58e9ee76",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "another total eclipse",
+      "url": "https://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2024Apr08Tgoogle.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "you'd be wrong",
+      "url": "https://www.buzzfeed.com/sallytamarkin/heres-what-actually-happens-if-you-look-directly-at-the-sun?utm_term=.ns5EVljBP#.qc2gOG0Bz",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "it will be",
+      "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/06/30/what-happens-if-you-try-to-watch-the-august-solar-eclipse-without-special-glasses-nothing-good/?utm_term=.f4fb75f8e924",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "wirecutter's review",
+      "url": "http://thewirecutter.com/reviews/best-solar-eclipse-glasses-and-filters/",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "fakes or knock-offs",
+      "url": "https://www.washingtonpost.com/business/get-there/dont-be-blindsided-during-the-eclipse/2017/08/01/437348b2-76d0-11e7-8f39-eeb7d3a2d304_story.html",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "one of these vetted brands",
+      "url": "https://eclipse.aas.org/resources/solar-filters",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "here's a great way to vet that they are legit",
+      "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/08/04/vendors-may-be-selling-fake-solar-eclipse-glasses-heres-how-to-make-sure-yours-are-real/?utm_term=.75a417ecde11",
+      "file": "pages/eclipse.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Lifehacker: \"Please Turn On Two-Factor Authentication\"",
+      "url": "http://lifehacker.com/5932700/please-turn-on-two-factor-authentication",
+      "file": "pages/security.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Lifehacker: \"Here's Everywhere You Should Enable Two-Factor Authentication Right Now\"",
+      "url": "http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now",
+      "file": "pages/security.md"
+    },
+    {
+      "type": "markdown",
+      "text": "More useful articles",
+      "url": "http://lifehacker.com/tag/two-factor-authentication",
+      "file": "pages/security.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Giant Pool of Money",
+      "url": "http://www.thisamericanlife.org/radio-archives/episode/355/the-giant-pool-of-money",
+      "file": "pages/TAL.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Another Frightening Show About The Economy",
+      "url": "http://www.thisamericanlife.org/radio-archives/episode/365/Another-Frightening-Show-About-the-Economy",
+      "file": "pages/TAL.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Bad Bank",
+      "url": "http://www.thisamericanlife.org/radio-archives/episode/375/bad-bank",
+      "file": "pages/TAL.md"
+    },
+    {
+      "type": "markdown",
+      "text": "The Watchmen",
+      "url": "http://www.thisamericanlife.org/radio-archives/episode/382/The-Watchmen",
+      "file": "pages/TAL.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Return To The Giant Pool Of Money",
+      "url": "http://www.thisamericanlife.org/radio-archives/episode/392/Someone-Elses-Money",
+      "file": "pages/TAL.md"
+    },
+    {
+      "type": "markdown",
+      "text": "More Is Less",
+      "url": "http://www.thisamericanlife.org/radio-archives/episode/391/More-Is-Less",
+      "file": "pages/TAL.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Someone Else's Money",
+      "url": "http://www.thisamericanlife.org/radio-archives/episode/392/Someone-Elses-Money",
+      "file": "pages/TAL.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Notes on Google Cardboard",
+      "url": "http://graybrooks.com/cardboard",
+      "file": "pages/good_stuff.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Notes on Smart Speakers",
+      "url": "http://graybrooks.com/smart-speaker/",
+      "file": "pages/good_stuff.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Why XKCD Is Amazing",
+      "url": "http://graybrooks.com/pages/xkcd",
+      "file": "pages/good_stuff.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Incredibly important episodes of This American Life",
+      "url": "http://graybrooks.com/pages/TAL",
+      "file": "pages/good_stuff.md"
+    },
+    {
+      "type": "markdown",
+      "text": "My Favorite Videos",
+      "url": "http://graybrooks.com/pages/amazing_videos",
+      "file": "pages/good_stuff.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Good Music...",
+      "url": "http://graybrooks.com/pages/music",
+      "file": "pages/good_stuff.md"
+    },
+    {
+      "type": "markdown",
+      "text": "This May Be The Coolest Way Ever To Quit Your Job",
+      "url": "https://www.youtube.com/watch?v=Ew_tdY0V4Zo",
+      "file": "pages/amazing_videos.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Rasmus - In the Shadows - Halo Tricks",
+      "url": "https://www.youtube.com/watch?v=fTjw3xFObP8",
+      "file": "pages/amazing_videos.md"
+    },
+    {
+      "type": "markdown",
+      "text": "always ready to respond to \"Computer: ...\"",
+      "url": "https://www.youtube.com/watch?v=KT5JiINlbhw",
+      "file": "pages/smart-speaker.md"
+    },
+    {
+      "type": "markdown",
+      "text": "more on this",
+      "url": "https://www.theguardian.com/commentisfree/2017/jan/15/amazon-echo-is-great-but-what-does-it-hear",
+      "file": "pages/smart-speaker.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Alexa skills section on Amazon.com",
+      "url": "https://www.amazon.com/b/ref=as_li_ss_tl?tag=digitren08-20&ie=UTF8&node=13727921011&linkCode=sl2&linkId=eb4c1b11fb84e75eb94ff42ee65d0cd4&ascsubtag=home:1088614:9735280",
+      "file": "pages/smart-speaker.md"
+    },
+    {
+      "type": "markdown",
+      "text": "alexaskillstore.com",
+      "url": "https://www.alexaskillstore.com",
+      "file": "pages/smart-speaker.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Amazon newsletter",
+      "url": "https://smile.amazon.com/gp/gss/detail/42015080",
+      "file": "pages/smart-speaker.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Alexa Skill Store newsletter",
+      "url": "http://smswithmolly.us13.list-manage1.com/subscribe?u=08c5c395bfdc2457be5e4c2b4&id=e95ca4458c",
+      "file": "pages/smart-speaker.md"
+    },
+    {
+      "type": "markdown",
+      "text": "here",
+      "url": "https://www.cnet.com/how-to/the-complete-list-of-alexa-commands/",
+      "file": "pages/smart-speaker.md"
+    },
+    {
+      "type": "markdown",
+      "text": "5 Awesome Illegal Uses for Alexa",
+      "url": "http://www.shellypalmer.com/2017/01/5-awesome-illegal-uses-alexa/",
+      "file": "pages/smart-speaker.md"
+    },
+    {
+      "type": "markdown",
+      "text": "super short explanation",
+      "url": "https://www.youtube.com/watch?v=W4bUHZB4__w",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "ton of videos",
+      "url": "https://www.youtube.com/results?search_query=google+cardboard",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "google cardboard v2",
+      "url": "http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=google+cardboard+v2",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "4 or more stars",
+      "url": "http://www.amazon.com/s/ref=sr_nr_p_72_0?fst=as%3Aoff&rh=i%3Aaps%2Ck%3Agoogle+cardboard+v2%2Cp_72%3A2661618011&keywords=google+cardboard+v2&ie=UTF8&qid=1452147319&rnid=2661617011",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "these",
+      "url": "http://www.amazon.com/gp/product/B018G1CJ3U?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "two",
+      "url": "http://www.amazon.com/gp/product/B00TEDLGFC?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s02",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "changes",
+      "url": "https://hoonite.com/blog/devices/the-new-generation-of-google-cardboard-v2-has-arrived/",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Mattel View-master",
+      "url": "https://www.amazon.com/Mattel-DTH61-View-Master-Deluxe-Viewer/dp/B01CNSO79Q/ref=sr_1_7?s=toys-and-games&ie=UTF8&qid=1500342174&sr=1-7&keywords=viewmaster",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "is actually one of the best",
+      "url": "http://www.greenbot.com/article/2995583/android/the-best-cheap-cardboard-vr-viewer-is-mattels-view-master.html",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "views out there",
+      "url": "http://toyland.gizmodo.com/the-virtual-reality-view-master-2-0-will-be-the-best-go-1758981678",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Unofficial Cardboard v2",
+      "url": "http://www.unofficialcardboard.com/products/2-0-plus?variant=16856200839",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Goggle Tech",
+      "url": "http://www.amazon.com/Virtual-Goggle-Tech-C1-Glass-Smartphones/dp/B01884YMKI?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s01",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "official Cardboard app",
+      "url": "https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "NYT VR",
+      "url": "https://play.google.com/store/apps/details?id=com.im360nytvr",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Vrse",
+      "url": "https://play.google.com/store/apps/details?id=com.shakingearthdigital.vrsecardboard",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Jaunt VR",
+      "url": "https://play.google.com/store/apps/details?id=com.jauntvr.android.player.cardboard&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "good content",
+      "url": "https://play.google.com/store/apps/developer?id=Jaunt+Inc",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "worth experiencing",
+      "url": "http://www.jauntvr.com/content/",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Street View",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.street",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "youtube.com/360",
+      "url": "https://www.youtube.com/360",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Titans of Space",
+      "url": "https://play.google.com/store/apps/details?id=com.drashvr.titansofspacecb",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Caaaaardboard",
+      "url": "https://play.google.com/store/apps/details?id=com.dejobaangames.caaaaardboard&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Romans from Mars",
+      "url": "https://play.google.com/store/apps/details?id=com.Sidekick.Romans360Cardboard&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Lamper VR",
+      "url": "https://play.google.com/store/apps/details?id=com.ArchiactInteractive.LamperVR",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Trooper 2",
+      "url": "https://play.google.com/store/apps/details?id=org.cmdr2.trooper2c",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Proton Pulse",
+      "url": "https://play.google.com/store/apps/details?id=com.ZeroTransform.ProtonPulse",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Snow Strike",
+      "url": "https://play.google.com/store/apps/details?id=co.dpid.snowstrike.free.cardboard&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Battle360VR",
+      "url": "https://play.google.com/store/apps/details?id=com.oddknot.battle360vr",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Deep Space Rumble",
+      "url": "https://play.google.com/store/apps/details?id=com.gamearx.spacerumble",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "SpaceTerror",
+      "url": "https://play.google.com/store/apps/details?id=kos.is.working&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Zombie Shooter VR",
+      "url": "https://play.google.com/store/apps/details?id=com.fibrum.zombievr&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Vanguard V",
+      "url": "https://play.google.com/store/apps/details?id=com.ZeroTransform.VanguardV",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "The Mission: Trailer",
+      "url": "https://play.google.com/store/apps/details?id=com.jauntvr.preview.mission&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "climbing with North Face",
+      "url": "https://play.google.com/store/apps/details?id=com.jauntvr.preview.tnf",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "look around North Korea",
+      "url": "https://play.google.com/store/apps/details?id=com.jauntvr.preview.northkorea",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "testdrive a Volvo",
+      "url": "https://play.google.com/store/apps/details?id=com.volvo.volvoreality",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Paul McCartney",
+      "url": "https://play.google.com/store/apps/details?id=com.jauntvr.preview.mccartney",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Jack White",
+      "url": "https://play.google.com/store/apps/details?id=com.jauntvr.preview.jackwhite",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "fly around the Space Needle",
+      "url": "https://play.google.com/store/apps/details?id=com.wemersive.spaceneedle",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "VR Noir",
+      "url": "https://play.google.com/store/apps/details?id=co.startvr.vrnoircb&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Chair in a Room",
+      "url": "https://play.google.com/store/apps/details?id=com.RyanBousfield.AChairInARoom&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Dark Walls",
+      "url": "https://play.google.com/store/apps/details?id=com.Nuworks.DarkWalls&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "VR Silent House",
+      "url": "https://play.google.com/store/apps/details?id=com.supermonkeyfun.vrsilenthome",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Sisters",
+      "url": "https://play.google.com/store/apps/details?id=com.otherworld.Sisters",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Insidious VR",
+      "url": "https://play.google.com/store/apps/details?id=com.focus.insidiousCardboard",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Tuscany Dive",
+      "url": "https://play.google.com/store/apps/details?id=com.FabulousPixel.TuscanyDive&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "VR Island",
+      "url": "https://play.google.com/store/apps/details?id=co.vrmob.island",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "VR World",
+      "url": "https://play.google.com/store/apps/details?id=vr.world.cardboard",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Village for Google Cardboard",
+      "url": "https://play.google.com/store/apps/details?id=org.androidworks.villagevr.villagevr",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Lost in the Kismet",
+      "url": "https://play.google.com/store/apps/details?id=com.hihill.link&hl=en",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Cedar Point VR",
+      "url": "https://play.google.com/store/apps/details?id=com.CedarFair.CedarPointVR",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "War of Words",
+      "url": "https://play.google.com/store/apps/details?id=com.BDH.WarofWords",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Cardboard app",
+      "url": "https://itunes.apple.com/us/app/google-cardboard/id987962261?mt=8",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "NYT VR",
+      "url": "https://itunes.apple.com/us/app/nyt-vr-virtual-reality-stories/id1028562337?mt=8",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Vrse",
+      "url": "https://itunes.apple.com/us/app/vrse-virtual-reality/id959327054?mt=8",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Jaunt VR",
+      "url": "https://itunes.apple.com/us/app/jaunt-vr/id1048352748",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "a ton of good content that is worth experiencing",
+      "url": "http://www.jauntvr.com/content/",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Proton Pulse",
+      "url": "https://itunes.apple.com/us/app/proton-pulse-for-google-cardboard/id1002739417?mt=8",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Vanguard V",
+      "url": "https://itunes.apple.com/us/app/vanguard-v-for-google-cardboard/id1006371645?mt=8",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Sisters",
+      "url": "https://itunes.apple.com/us/app/sisters-virtual-reality-ghost/id957212695?mt=8",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Insidious VR",
+      "url": "https://itunes.apple.com/us/app/insidious-vr/id989844820?mt=8",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Paul McCartney",
+      "url": "https://itunes.apple.com/us/app/paul-mccartney/id982712799?mt=8",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "you'll find more",
+      "url": "https://fnd.io/#/us/search?mediaType=ios&term=google%20cardboard",
+      "file": "pages/cardboard.md"
+    },
+    {
+      "type": "markdown",
+      "text": "vote early in your state",
+      "url": "http://www.politico.com/story/2016/09/early-voting-states-228435",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "all kinds of events happening near you",
+      "url": "https://www.hillaryclinton.com/events/",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Find the closest one to you",
+      "url": "https://www.hillaryclinton.com/tools/find-your-field-office/",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "sign up",
+      "url": "https://www.hillaryclinton.com/forms/volunteer/",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "here",
+      "url": "http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Evan McMullin's status on your state's ballot",
+      "url": "https://en.wikipedia.org/wiki/Evan_McMullin_presidential_campaign,_2016#Ballot_status",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "poll watcher",
+      "url": "https://www.hillaryclinton.com/forms/protect-the-vote/",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "events",
+      "url": "https://www.hillaryclinton.com/events/",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "your field office",
+      "url": "https://www.hillaryclinton.com/tools/find-your-field-office/",
+      "file": "pages/election.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Time",
+      "url": "http://xkcd.com/1190/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Explained",
+      "url": "http://www.explainxkcd.com/wiki/index.php?title=1190:_Time",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Scrollable Viewer",
+      "url": "http://geekwagon.net/projects/xkcd1190/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Click and Drag",
+      "url": "http://xkcd.com/1110/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Explained",
+      "url": "http://www.explainxkcd.com/wiki/index.php?title=1110:_Click_and_Drag",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Full Image Viewer - Zoomable",
+      "url": "http://xkcd-map.rent-a-geek.de/#10/1.1006/0.2005",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Pixels",
+      "url": "http://xkcd.com/1416/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Explained",
+      "url": "http://www.explainxkcd.com/wiki/index.php/1416:_Pixels",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "All Images",
+      "url": "http://www.explainxkcd.com/wiki/index.php/1416:_Pixels/Images",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Hoverboard",
+      "url": "http://xkcd.com/1608/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Explained",
+      "url": "https://www.explainxkcd.com/wiki/index.php/1608:_Hoverboard",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "What would happen if you tried to hit a baseball pitched at 90% the speed of light?",
+      "url": "http://what-if.xkcd.com/1/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "What would it be like to navigate a rowboat through a lake of mercury? What about bromine? Liquid gallium? Liquid tungsten? Liquid nitrogen? Liquid helium?",
+      "url": "http://what-if.xkcd.com/50/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "What if I took a swim in a typical spent nuclear fuel pool? Would I need to dive to actually experience a fatal amount of radiation? How long could I stay safely at the surface?",
+      "url": "http://what-if.xkcd.com/29/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Is it possible to build a jetpack using downward firing machine guns?",
+      "url": "http://what-if.xkcd.com/21/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "In Armageddon, a NASA guy comments that a plan to shoot a laser at the asteroid is like \u201cshooting a b.b. gun at a freight train.\u201d What would it take to stop an out-of-control freight train using only b.b. guns?",
+      "url": "http://what-if.xkcd.com/18/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "What would happen if everyone on earth stood as close to each other as they could and jumped, everyone landing on the ground at the same instant?",
+      "url": "http://what-if.xkcd.com/8/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Combined",
+      "url": "https://docs.google.com/file/d/0ByCdKb1LorptYURtQ3dyT19oeVU/edit",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "pipelines",
+      "url": "http://xkcd.com/1649/",
+      "file": "pages/xkcd.md"
+    },
+    {
+      "type": "markdown",
+      "text": "loyal opposition",
+      "url": "https://en.wikipedia.org/wiki/Loyal_opposition",
+      "file": "pages/loyal-opposition.md"
+    },
+    {
+      "type": "markdown",
+      "text": "made a very important point",
+      "url": "https://youtu.be/-rSDUsMwakI?t=22m29s",
+      "file": "pages/loyal-opposition.md"
+    },
+    {
+      "type": "markdown",
+      "text": "on meetup.com",
+      "url": "https://www.meetup.com/",
+      "file": "pages/loyal-opposition.md"
+    },
+    {
+      "type": "markdown",
+      "text": "SNL",
+      "url": "http://www.nbc.com/saturday-night-live",
+      "file": "pages/loyal-opposition.md"
+    },
+    {
+      "type": "markdown",
+      "text": "John Oliver",
+      "url": "https://www.youtube.com/user/LastWeekTonight",
+      "file": "pages/loyal-opposition.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Samantha Bee",
+      "url": "https://www.youtube.com/channel/UC18vz5hUUqxbGvym9ghtX_w",
+      "file": "pages/loyal-opposition.md"
+    },
+    {
+      "type": "markdown",
+      "text": "The Daily Show",
+      "url": "http://www.hulu.com/the-daily-show-with-trevor-noah",
+      "file": "pages/loyal-opposition.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Seth Meyers",
+      "url": "https://www.youtube.com/user/LateNightSeth/videos",
+      "file": "pages/loyal-opposition.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Jekyll",
+      "url": "http://jekyllrb.com/",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "\"Fork me on GitHub\"",
+      "url": "https://github.com/virtix/open-source-program-template",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "project's settings",
+      "url": "https://github.com/YOUR_USERNAME/open-source-program-template/settings",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "http://YOUR_USERNAME.github.io",
+      "url": "http://YOUR_USERNAME.github.io",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "prose.io",
+      "url": "http://prose.io",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "markdown",
+      "url": "https://daringfireball.net/projects/markdown/",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "GitHub Pages",
+      "url": "http://pages.github.com/",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "Prose.io",
+      "url": "http://prose.io/",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "GitHub",
+      "url": "https://help.github.com/articles/using-jekyll-with-pages",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "markdown",
+      "text": "prose.io",
+      "url": "https://github.com/prose/prose/wiki/Getting-Started",
+      "file": "_includes/howto.md"
+    },
+    {
+      "type": "html",
+      "text": "{{ site.name }}",
+      "url": "https://www.graybrooks.com",
+      "file": "_layouts/default.html"
+    },
+    {
+      "type": "html",
+      "text": "Github Pages",
+      "url": "https://github.com/gbinal/gbinal.github.com",
+      "file": "_layouts/default.html"
+    },
+    {
+      "type": "yaml",
+      "text": "permalink",
+      "url": "https://www.graybrooks.com",
+      "file": "_config.yml"
+    },
+    {
+      "type": "yaml",
+      "text": "prose_url",
+      "url": "https://github.com/",
+      "file": "_config.yml"
+    },
+    {
+      "type": "yaml",
+      "text": "site_url",
+      "url": "https://www.github.com",
+      "file": "_config.yml"
+    },
+    {
+      "type": "yaml",
+      "text": "baseurl",
+      "url": "https://gbinal.github.com",
+      "file": "_config.yml"
+    },
+    {
+      "type": "yaml",
+      "text": "author.url",
+      "url": "https://www.graybrooks.com",
+      "file": "_config.yml"
+    },
+    {
+      "type": "yaml",
+      "text": "navigation[1].url",
+      "url": "https://api-all-the-x.18f.gov/",
+      "file": "_config.yml"
+    },
+    {
+      "type": "yaml",
+      "text": "navigation[4].url",
+      "url": "https://github.com/gbinal",
+      "file": "_config.yml"
+    }
+  ],
+  "internal_links": [
+    {
+      "type": "markdown",
+      "text": "news page",
+      "url": "news.html",
+      "file": "_includes/howto.md"
+    }
+  ],
+  "broken_internal_links": [
+    {
+      "type": "markdown",
+      "text": "news page",
+      "url": "news.html",
+      "file": "_includes/howto.md"
+    }
+  ],
+  "template_variables": [
+    {
+      "type": "html",
+      "text": "{{ link.text }}",
+      "url": "{{ link.url }}",
+      "file": "_includes/sidebar.html"
+    },
+    {
+      "type": "html",
+      "text": "{{ link.text }}",
+      "url": "{{ link.url }}",
+      "file": "_includes/sidebar.html"
+    },
+    {
+      "type": "html",
+      "text": "Edit this page",
+      "url": "{{ edit_url }}",
+      "file": "_includes/prose_edit_url.html"
+    }
+  ]
+}
