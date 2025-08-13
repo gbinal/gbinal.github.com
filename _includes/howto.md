@@ -90,7 +90,7 @@ directly or you can use [Prose.io](http://prose.io/).
 
 To create a _new_ post, copy the ```_posts/post-template.md``` file to the same directory and use this
 file naming convention: ```YYYY-MM-DD-Your-Post-Title.md```.  Edit that file accordingly and it 
-will automatically be displayed on the the [news page](news.html).  
+will automatically be displayed on the the news page.
 
 
 #### Adding new pages
