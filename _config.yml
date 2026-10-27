@@ -50,3 +50,8 @@ navigation:
 - text: GitHub
   url: https://github.com/gbinal
   internal: false
+- text: Shortcuts
+  url: /shortcuts/
+  internal: true
+
+  
